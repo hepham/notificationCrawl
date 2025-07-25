@@ -1,0 +1,15 @@
+3. Email yêu cầu xuất hóa đơn GTGT cho giao dịch mua vé
+Tiêu đề: Yêu cầu xuất hóa đơn GTGT
+Nội dung:
+Kính gửi bộ phận kế toán CGV,
+Tôi là Nguyễn Văn Hòa, vừa hoàn tất giao dịch mua vé xem phim tại CGV Aeon Tân Phú lúc 19h00 ngày 24/07 (mã giao dịch: 238429XH).
+Kính mong Quý đơn vị hỗ trợ xuất hóa đơn GTGT cho giao dịch trên theo thông tin:
+
+Tên công ty: Công ty TNHH ABC
+
+MST: 0312345678
+
+Địa chỉ: 123 Nguyễn Văn Cừ, Q.5, TP.HCM
+Xin chân thành cảm ơn.
+Trân trọng,
+Nguyễn Văn Hòa

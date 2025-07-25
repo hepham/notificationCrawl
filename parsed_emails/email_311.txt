@@ -1,0 +1,12 @@
+2. Email thông báo đã đặt lịch kiểm tra đường ống nước:
+Tiêu đề: Thông báo lịch kiểm tra đường ống nước
+Nội dung:
+
+Kính gửi Quý khách,
+
+Chúng tôi xin thông báo đã đặt lịch kiểm tra đường ống nước cho nhà số 21, đường Nguyễn Văn Lộc vào lúc 10h sáng, thứ Tư tuần này.
+
+Quý khách vui lòng sắp xếp thời gian để kỹ thuật viên tiến hành kiểm tra đúng hẹn.
+
+Trân trọng,
+[Tên công ty]

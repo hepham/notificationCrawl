@@ -1,0 +1,6 @@
+5. Xác nhận khách đã thanh toán 50% dịch vụ thuê xe tháng
+Tiêu đề: Xác nhận thanh toán dịch vụ thuê xe tháng
+Nội dung email:
+Kính gửi Quý khách,
+Chúng tôi xin xác nhận Quý khách đã hoàn tất việc thanh toán trước 50% cho dịch vụ thuê xe tháng tại TP.HCM.
+Phần còn lại sẽ được thanh toán theo thỏa thuận. Cảm ơn sự hợp tác của Quý khách!

@@ -1,0 +1,7 @@
+5. Xác nhận đặt vé xem phim bằng voucher
+Chủ đề: Xác nhận đặt vé bằng voucher
+Nội dung email:
+Kính gửi Quý khách,
+Chúng tôi xác nhận quý khách đã đặt vé thành công cho phim [Tên phim] bằng voucher vào lúc [Giờ] ngày [Ngày] tại [Tên rạp].
+Thông tin chi tiết vé được đính kèm trong email này.
+Hân hạnh được đón tiếp quý khách tại rạp.

@@ -1,0 +1,9 @@
+7. Gửi thông tin thanh toán vé nhóm công ty
+Tiêu đề: Thông tin thanh toán vé nhóm công ty
+Nội dung:
+Kính gửi [Tên công ty],
+Chúng tôi xác nhận đã nhận được yêu cầu đặt 50 vé xem phim “Tên phim” cho ngày [dd/mm] lúc [giờ].
+Tổng chi phí: [số tiền]
+Thông tin thanh toán chi tiết được đính kèm trong email này.
+Mọi thắc mắc, vui lòng liên hệ hotline: [số điện thoại].
+Trân trọng,

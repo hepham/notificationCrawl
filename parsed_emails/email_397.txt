@@ -1,0 +1,7 @@
+9. Xác nhận đặt vé xem phim + combo gia đình 4 người
+Chủ đề: Xác nhận đặt vé & combo gia đình
+Nội dung email:
+Kính gửi Quý khách,
+Quý khách đã đặt thành công 04 vé xem phim [Tên phim] vào lúc [Giờ] ngày [Ngày] cùng combo gia đình (4 bắp + 4 nước) tại rạp [Tên rạp].
+Chi tiết vé và combo được đính kèm trong email này.
+Hân hạnh được phục vụ quý khách và gia đình!

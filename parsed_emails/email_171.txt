@@ -1,0 +1,10 @@
+10. Xác nhận thay đổi điểm đón xe
+Tiêu đề: Xác nhận thay đổi điểm đón xe
+Nội dung email:
+Kính gửi Quý khách,
+
+Chúng tôi xác nhận đã thay đổi điểm đón xe từ số 5 Nguyễn Thị Minh Khai sang số 45 Lý Tự Trọng, Quận 1, TP.HCM theo yêu cầu của Quý khách.
+
+Mọi thông tin khác vẫn giữ nguyên như lịch trình đã đặt.
+Trân trọng,
+[Tên nhà xe]

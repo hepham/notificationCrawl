@@ -1,0 +1,8 @@
+5. Xin lỗi vì không thể giữ ghế nếu khách đến trễ 15 phút
+Tiêu đề: Thông báo về thời gian giữ ghế
+Nội dung:
+Kính gửi Quý khách,
+Chúng tôi xin lưu ý rằng hệ thống sẽ giữ chỗ tối đa 15 phút sau giờ chiếu.
+Nếu quý khách đến trễ, vé có thể bị hủy và không được hoàn tiền.
+Mong quý khách sắp xếp thời gian phù hợp để có trải nghiệm trọn vẹn.
+Trân trọng cảm ơn.

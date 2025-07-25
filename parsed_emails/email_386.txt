@@ -1,0 +1,10 @@
+8. Mời tham gia buổi chiếu thử nghiệm phim mới
+Tiêu đề: Lời mời tham dự buổi chiếu thử phim mới
+Nội dung:
+Kính gửi Quý khách,
+Chúng tôi trân trọng mời bạn đến tham dự buổi chiếu thử phim “Tên phim” vào lúc [giờ], ngày [dd/mm] tại [rạp].
+Sự góp ý của bạn sẽ giúp chúng tôi cải thiện chất lượng phim trước khi ra mắt chính thức.
+
+Đăng ký tham gia tại [link]
+Số lượng chỗ ngồi có hạn.
+Trân trọng,

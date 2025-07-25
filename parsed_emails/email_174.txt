@@ -1,0 +1,7 @@
+2. Xác nhận chuyển giờ thuê xe từ 9h sang 11h
+Tiêu đề: Xác nhận điều chỉnh thời gian thuê xe
+Nội dung email:
+Kính gửi Quý khách,
+Chúng tôi đã nhận được yêu cầu thay đổi thời gian thuê xe từ 9h00 sang 11h00 cùng ngày do lịch trình cá nhân.
+Xe sẽ được sắp xếp đúng theo thời gian mới.
+Mọi thông tin khác giữ nguyên như đã thỏa thuận. Trân trọng cảm ơn Quý khách!

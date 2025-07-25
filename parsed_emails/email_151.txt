@@ -1,0 +1,11 @@
+11. Xác nhận thay đổi xe đưa đón trong tour:
+
+Tiêu đề: Thông báo thay đổi phương tiện đưa đón trong tour
+Nội dung:
+Kính gửi Quý khách,
+
+Do số lượng khách tăng, chúng tôi xin thông báo xe đưa đón trong tour ngày 18/08/2025 sẽ được thay đổi từ xe 16 chỗ sang xe 29 chỗ để đảm bảo sự thoải mái.
+
+Mong Quý khách lưu ý và thông cảm cho sự điều chỉnh này.
+
+Trân trọng cảm ơn.

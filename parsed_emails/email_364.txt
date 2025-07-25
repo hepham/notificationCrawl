@@ -1,0 +1,9 @@
+6. Email xác nhận đã sử dụng mã khuyến mãi thành công
+Tiêu đề: Mã khuyến mãi đã được áp dụng thành công
+Nội dung:
+Kính gửi Quý khách,
+Mã khuyến mãi MOVIE50 đã được áp dụng thành công cho đơn đặt vé ngày 25/07 tại CGV Vincom Trần Duy Hưng.
+Quý khách đã được giảm 50.000 VNĐ cho giao dịch này.
+Cảm ơn Quý khách đã đồng hành cùng chúng tôi.
+Trân trọng,
+CGV Việt Nam

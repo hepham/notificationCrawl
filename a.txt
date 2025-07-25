@@ -1,0 +1,183 @@
+Viết email báo thay đổi địa điểm chiếu phim sang rạp gần đó.
+
+Viết email xác nhận đặt vé xem phim cho nhóm 8 người.
+
+Viết email yêu cầu xuất hóa đơn GTGT cho giao dịch mua vé.
+
+Viết email hẹn lịch gặp quản lý rạp để xin hỗ trợ về lỗi hệ thống đặt vé.
+
+Viết email xin lỗi khách hàng về việc ghế đã được bán trùng.
+
+Viết email xác nhận đã sử dụng mã khuyến mãi thành công.
+
+Viết email hỏi thông tin về suất chiếu IMAX vào cuối tuần.
+
+Viết email yêu cầu đổi suất chiếu do nhầm lịch cá nhân.
+
+Viết email xác nhận đã hủy đặt vé theo yêu cầu của khách hàng.
+
+Viết email giới thiệu các phim mới sẽ khởi chiếu trong tháng tới.
+
+Viết email xác nhận đã đặt combo bắp nước kèm vé xem phim.
+
+Viết email gửi thông tin chương trình tri ân khách hàng thường xuyên.
+
+Viết email thông báo chương trình ưu đãi vé 1 tặng 1 dịp cuối tuần.
+
+Viết email nhắc khách hàng kiểm tra kỹ thông tin vé trước khi đến rạp.
+
+Viết email gửi vé điện tử và hướng dẫn quét mã QR vào phòng chiếu.
+
+Viết email thông báo thay đổi phim chiếu do nhà phát hành yêu cầu.
+
+Viết email xác nhận đã đặt 2 vé suất chiếu phim hoạt hình lúc 15h.
+
+Viết email hỏi về chính sách đổi vé nếu không đến được đúng giờ.
+
+Viết email gửi lời mời xem suất chiếu đặc biệt có đạo diễn giao lưu.
+
+Viết email gửi khuyến mãi sinh nhật cho thành viên thân thiết.
+
+Viết email thông báo bảo trì hệ thống đặt vé online trong 2 giờ tới.
+
+Viết email xin chuyển vé sang chi nhánh CGV khác.
+
+Viết email thông báo lịch phim Tết đã được cập nhật.
+
+Viết email giới thiệu phim sắp ra mắt và đặt vé sớm.
+
+Viết email xin lỗi vì không thể giữ ghế nếu khách đến trễ 15 phút.
+
+Viết email hướng dẫn cách hoàn vé trực tuyến.
+
+Viết email gửi thông tin thanh toán vé nhóm công ty.
+
+Viết email mời tham gia buổi chiếu thử nghiệm phim mới.
+
+Viết email xác nhận khách đã đặt vé theo chương trình thành viên VIP.
+
+Viết email gửi phiếu khảo sát về chất lượng dịch vụ tại rạp.
+
+Viết email thông báo ghế ngồi đã thay đổi do lỗi hệ thống.
+
+Viết email gửi lại vé do email trước bị lỗi file.
+
+Viết email cảm ơn khách đã tham gia chương trình “Điện ảnh & Trải nghiệm”.
+
+Viết email xin lỗi vì phim đã bị gỡ khỏi lịch chiếu.
+
+Viết email xác nhận đặt vé xem phim bằng voucher.
+
+Viết email yêu cầu đổi phim khác do không đúng độ tuổi.
+
+Viết email gửi mã ưu đãi vé miễn phí cho thành viên kim cương.
+
+Viết email thông báo suất chiếu sớm cho phim bom tấn sắp ra mắt.
+
+Viết email xác nhận đặt vé xem phim + combo gia đình 4 người.
+
+Viết email mời dự buổi công chiếu phim có đạo diễn tham dự.
+
+Viết email xin lỗi vì hệ thống không nhận được thanh toán kịp thời.
+
+Viết email gửi thông tin đặt vé phim tài liệu tại rạp nhỏ.
+
+Viết email xác nhận thay đổi tên người nhận vé.
+
+Viết email gửi nhắc lịch chiếu phim khách đã đặt trước.
+
+Viết email đề nghị hỗ trợ vì mã vé không hoạt động tại máy quét.
+
+Viết email giới thiệu các suất chiếu phim có phụ đề tiếng Việt.
+
+Viết email xác nhận đã đổi vé phim hoạt hình sang phim hành động.
+
+Viết email thông báo không thể ghép ghế như yêu cầu do rạp kín chỗ.
+
+Viết email cảm ơn vì đã chọn dịch vụ xem phim VIP ghế đôi.
+
+Viết email mời nhận phần quà khi đánh giá trải nghiệm xem phim.
+
+Viết email xin lỗi về việc phục vụ đồ ăn chậm trong phòng chiếu.
+
+Viết email xác nhận thông tin đặt vé nhóm trường học.
+
+Viết email thông báo khách chưa thanh toán vé đặt chỗ.
+
+Viết email gửi yêu cầu liên hệ hỗ trợ qua tổng đài vì lỗi vé.
+
+Viết email xác nhận vé được chuyển sang tài khoản thành viên khác.
+
+Viết email xin phép khách hàng đổi phim do sự cố âm thanh.
+
+Viết email thông báo phim đã được nâng cấp sang định dạng 4DX.
+
+Viết email gửi chương trình khuyến mãi dành riêng cho học sinh/sinh viên.
+
+Viết email xác nhận có vé xem phim vào dịp Lễ Quốc Khánh.
+
+Viết email đề nghị hỗ trợ khách quên thanh toán tiền vé.
+
+Viết email xin phép đóng cửa sớm do lịch chiếu đặc biệt.
+
+Viết email gửi lời mời đến rạp vào ngày hội phim gia đình.
+
+Viết email xác nhận đặt vé bằng điểm thưởng thành viên.
+
+Viết email hỏi có thể đổi vé sang phim khác cùng suất giờ không.
+
+Viết email xác nhận suất chiếu phim đặc biệt chỉ chiếu 1 lần.
+
+Viết email cảm ơn đã sử dụng dịch vụ đặt vé trên ứng dụng.
+
+Viết email mời khách tham gia chương trình “Phim yêu thích tháng 8”.
+
+Viết email xin lỗi vì sự chậm trễ trong xác nhận vé đặt.
+
+Viết email xác nhận khách đã đăng ký chương trình vé xem phim định kỳ.
+
+Viết email thông báo thay đổi khung giờ chiếu do thay đổi lịch phim.
+
+Viết email xác nhận thông tin vé nhóm công ty cuối tuần.
+
+Viết email thông báo phim bị kiểm duyệt không được chiếu.
+
+Viết email yêu cầu hỗ trợ nếu vé không được scan tại cổng.
+
+Viết email mời tham dự đêm chiếu phim nghệ thuật miễn phí.
+
+Viết email gửi link tải vé điện tử PDF.
+
+Viết email xin dời vé sang ngày khác do khách bận đột xuất.
+
+Viết email xác nhận đã đổi vị trí ghế sang gần cửa thoát hiểm.
+
+Viết email cảm ơn đã để lại phản hồi tích cực về trải nghiệm.
+
+Viết email xin lỗi vì phim bị gián đoạn giữa chừng do mất điện.
+
+Viết email gửi xác nhận vé phim ngoài trời cuối tuần này.
+
+Viết email xác nhận chuyển suất chiếu phim sang rạp chi nhánh khác.
+
+Viết email đề nghị khách xác nhận lại khung giờ đã chọn.
+
+Viết email gửi hóa đơn đỏ cho doanh nghiệp đặt vé theo hợp đồng.
+
+Viết email gửi thông báo nhận phần quà khi giới thiệu bạn mới.
+
+Viết email xác nhận vé trẻ em và người lớn trong cùng đơn hàng.
+
+Viết email gửi phản hồi khách không được vào dù đã đặt vé.
+
+Viết email xác nhận combo bắp nước đặc biệt cho sự kiện phim.
+
+Viết email thông báo rạp đóng cửa để bảo trì ngày mai.
+
+Viết email gửi nhắc lịch chiếu buổi tối hôm nay.
+
+Viết email xác nhận hủy vé do lý do cá nhân.
+
+Viết email cảm ơn khách đã sử dụng mã giảm giá tháng 7.
+
+Viết email gửi thông báo chưa nhận được vé đặt do email sai.

@@ -1,0 +1,9 @@
+4. Giới thiệu phim sắp ra mắt và đặt vé sớm
+Tiêu đề: [Đặt Vé Ngay] Phim bom tấn tháng tới đã mở bán!
+Nội dung:
+Kính gửi Quý khách,
+Phim điện ảnh đình đám “Tên phim” sẽ chính thức khởi chiếu vào ngày [dd/mm].
+Hệ thống đã mở đặt vé sớm kèm nhiều ưu đãi hấp dẫn.
+Đừng bỏ lỡ cơ hội trở thành người xem đầu tiên!
+
+Đặt vé ngay tại [link]

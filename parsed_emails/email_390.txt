@@ -1,0 +1,7 @@
+2. Gửi lại vé do email trước bị lỗi file
+Chủ đề: Gửi lại vé xem phim – File lỗi trong email trước
+Nội dung email:
+Kính gửi Quý khách,
+Chúng tôi xin gửi lại vé xem phim [Tên phim] vào [Ngày/Giờ] tại rạp [Tên rạp] do file đính kèm trong email trước gặp sự cố.
+Vé được đính kèm ở cuối email này.
+Xin lỗi quý khách vì sự bất tiện. Mọi thông tin cần hỗ trợ, vui lòng liên hệ [Email/SĐT].

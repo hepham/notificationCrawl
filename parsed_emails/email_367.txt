@@ -1,0 +1,9 @@
+9. Email xác nhận đã hủy đặt vé theo yêu cầu của khách hàng
+Tiêu đề: Xác nhận hủy vé xem phim
+Nội dung:
+Kính gửi Quý khách,
+Theo yêu cầu của Quý khách, đơn đặt vé số 35918 tại CGV Pandora Trường Chinh vào ngày 27/07 đã được hủy thành công.
+Số tiền thanh toán sẽ được hoàn về tài khoản trong vòng 3–5 ngày làm việc tùy ngân hàng.
+Cảm ơn Quý khách đã liên hệ với chúng tôi.
+Trân trọng,
+CGV Việt Nam

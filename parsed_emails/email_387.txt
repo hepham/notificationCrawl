@@ -1,0 +1,7 @@
+9. Xác nhận khách đã đặt vé theo chương trình thành viên VIP
+Tiêu đề: Xác nhận đặt vé chương trình VIP
+Nội dung:
+Kính gửi [Tên khách],
+Chúng tôi xác nhận bạn đã đặt 2 vé xem phim “Tên phim” tại rạp [tên rạp] vào lúc [giờ] ngày [dd/mm] theo chương trình thành viên VIP.
+Bạn sẽ nhận được combo bắp nước miễn phí khi quét mã tại quầy.
+Cảm ơn bạn đã đồng hành cùng chương trình VIP của chúng tôi.

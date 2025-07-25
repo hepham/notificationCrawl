@@ -1,0 +1,8 @@
+1. Thông báo ghế ngồi đã thay đổi do lỗi hệ thống
+Chủ đề: [Thông báo] Thay đổi ghế ngồi do lỗi hệ thống
+Nội dung email:
+Kính gửi Quý khách,
+Chúng tôi xin thông báo rằng do lỗi hệ thống, ghế ngồi quý khách đã chọn khi đặt vé phim [Tên phim] vào lúc [Giờ] ngày [Ngày] tại rạp [Tên rạp] đã bị thay đổi.
+Ghế mới của quý khách là: [Số ghế mới].
+Chúng tôi thành thật xin lỗi vì sự bất tiện này và rất mong quý khách thông cảm.
+Nếu quý khách có bất kỳ thắc mắc nào, vui lòng liên hệ hotline [Số điện thoại] để được hỗ trợ.
