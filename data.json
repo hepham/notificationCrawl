@@ -1,0 +1,275 @@
+{
+    "booking": {
+        "label": "Đặt chỗ / Dịch vụ",
+        "types": [{
+                "id": "hotel_booking",
+                "label": "Xác nhận đặt phòng khách sạn"
+            },
+            {
+                "id": "flight_booking",
+                "label": "Xác nhận vé máy bay"
+            },
+            {
+                "id": "restaurant_reservation",
+                "label": "Xác nhận đặt bàn nhà hàng"
+            },
+            {
+                "id": "tour_booking",
+                "label": "Xác nhận đặt tour du lịch"
+            },
+            {
+                "id": "car_booking",
+                "label": "Xác nhận đặt xe riêng / dịch vụ"
+            },
+            {
+                "id": "taxi_booking",
+                "label": "Xác nhận đặt taxi / xe công nghệ"
+            },
+            {
+                "id": "event_ticket",
+                "label": "Xác nhận vé sự kiện / xem phim"
+            }
+        ]
+    },
+    "healthcare": {
+        "label": "Y tế / Sức khỏe",
+        "types": [{
+                "id": "medical_checkup",
+                "label": "Xác nhận lịch khám sức khỏe"
+            },
+            {
+                "id": "dental_appointment",
+                "label": "Xác nhận lịch khám nha khoa"
+            },
+            {
+                "id": "vaccination",
+                "label": "Xác nhận lịch tiêm chủng"
+            },
+            {
+                "id": "online_doctor",
+                "label": "Xác nhận tư vấn bác sĩ online"
+            },
+            {
+                "id": "followup_visit",
+                "label": "Xác nhận lịch tái khám"
+            }
+        ]
+    },
+    "education": {
+        "label": "Học tập / Giáo dục",
+        "types": [{
+                "id": "course_registration",
+                "label": "Xác nhận đăng ký khóa học"
+            },
+            {
+                "id": "exam_schedule",
+                "label": "Xác nhận lịch thi"
+            },
+            {
+                "id": "webinar_registration",
+                "label": "Xác nhận tham gia hội thảo / webinar"
+            },
+            {
+                "id": "tuition_payment",
+                "label": "Xác nhận học phí đã đóng"
+            },
+            {
+                "id": "advising_appointment",
+                "label": "Xác nhận lịch tư vấn học tập"
+            }
+        ]
+    },
+    "ecommerce": {
+        "label": "Thương mại điện tử",
+        "types": [{
+                "id": "order_confirmation",
+                "label": "Xác nhận đơn hàng"
+            },
+            {
+                "id": "payment_confirmation",
+                "label": "Xác nhận thanh toán"
+            },
+            {
+                "id": "refund_request",
+                "label": "Xác nhận yêu cầu hoàn tiền"
+            },
+            {
+                "id": "shipping_update",
+                "label": "Xác nhận giao hàng"
+            }
+        ]
+    },
+    "account": {
+        "label": "Tài khoản / Kỹ thuật số",
+        "types": [{
+                "id": "account_registration",
+                "label": "Xác nhận đăng ký tài khoản"
+            },
+            {
+                "id": "email_verification",
+                "label": "Xác nhận địa chỉ email"
+            },
+            {
+                "id": "password_reset",
+                "label": "Xác nhận đặt lại mật khẩu"
+            },
+            {
+                "id": "device_login_alert",
+                "label": "Xác nhận đăng nhập từ thiết bị mới"
+            },
+            {
+                "id": "newsletter_subscription",
+                "label": "Xác nhận đăng ký nhận bản tin"
+            }
+        ]
+    },
+    "consultation": {
+        "label": "Lịch làm việc / Tư vấn",
+        "types": [{
+                "id": "meeting_schedule",
+                "label": "Xác nhận lịch họp"
+            },
+            {
+                "id": "interview_schedule",
+                "label": "Xác nhận lịch phỏng vấn"
+            },
+            {
+                "id": "legal_consultation",
+                "label": "Xác nhận lịch tư vấn pháp lý"
+            },
+            {
+                "id": "visa_consultation",
+                "label": "Xác nhận lịch tư vấn visa / định cư"
+            },
+            {
+                "id": "tech_support",
+                "label": "Xác nhận lịch hỗ trợ kỹ thuật"
+            }
+        ]
+    },
+    "transportation": {
+        "label": "Giao thông – Xe cộ",
+        "types": [{
+                "id": "vehicle_maintenance_schedule",
+                "label": "Xác nhận lịch bảo dưỡng / sửa chữa xe"
+            },
+            {
+                "id": "car_rental_extension",
+                "label": "Xác nhận gia hạn thuê xe"
+            },
+            {
+                "id": "car_pickup_notification",
+                "label": "Thông báo giao hoặc nhận xe"
+            }
+        ]
+    },
+    "repair_services": {
+        "label": "Dịch vụ sửa chữa",
+        "types": [{
+                "id": "home_repair_schedule",
+                "label": "Xác nhận lịch sửa chữa tại nhà"
+            },
+            {
+                "id": "appliance_maintenance_booking",
+                "label": "Xác nhận bảo trì thiết bị"
+            },
+            {
+                "id": "technician_arrival_notice",
+                "label": "Thông báo kỹ thuật viên đến"
+            },
+
+            {
+                "id": "spare_part_order_confirmation",
+                "label": "Xác nhận đặt phụ tùng"
+            }
+        ]
+    },
+    "property_management": {
+        "label": "Chung cư / Bất động sản",
+        "types": [{
+                "id": "apartment_service_notice",
+                "label": "Thông báo bảo trì điện nước / thang máy"
+            },
+            {
+                "id": "building_cleaning_notice",
+                "label": "Thông báo vệ sinh chung cư"
+            },
+            {
+                "id": "utility_shutoff_notice",
+                "label": "Thông báo cắt điện / nước"
+            },
+            {
+                "id": "management_fee_reminder",
+                "label": "Nhắc thanh toán phí quản lý"
+            },
+            {
+                "id": "security_update_notice",
+                "label": "Thông báo thay đổi quy định an ninh"
+            }
+        ]
+    },
+    "logistics": {
+        "label": "Vận chuyển – Logistics",
+        "types": [{
+                "id": "delivery_schedule_confirmation",
+                "label": "Xác nhận lịch giao hàng"
+            },
+            {
+                "id": "pickup_schedule",
+                "label": "Xác nhận lịch lấy hàng"
+            },
+            {
+                "id": "package_delay_notice",
+                "label": "Thông báo giao hàng trễ"
+            },
+            {
+                "id": "delivery_completion_notice",
+                "label": "Thông báo đã giao hàng thành công"
+            }
+        ]
+    },
+    "government_services": {
+        "label": "Hành chính công",
+        "types": [{
+                "id": "gov_service_schedule",
+                "label": "Xác nhận lịch hẹn dịch vụ công"
+            },
+            {
+                "id": "tax_appointment",
+                "label": "Xác nhận lịch làm việc với cơ quan thuế"
+            },
+            {
+                "id": "document_submission_notice",
+                "label": "Thông báo cần bổ sung giấy tờ"
+            }
+        ]
+    },
+    "others": {
+        "label": "Khác",
+        "types": [{
+                "id": "general_appointment",
+                "label": "Xác nhận lịch hẹn chung"
+            },
+            {
+                "id": "info_update",
+                "label": "Xác nhận cập nhật thông tin"
+            },
+            {
+                "id": "leave_request",
+                "label": "Xác nhận đơn xin nghỉ phép"
+            },
+            {
+                "id": "feedback_received",
+                "label": "Xác nhận đã nhận phản hồi"
+            },
+            {
+                "id": "survey_invitation",
+                "label": "Xác nhận tham gia khảo sát"
+            },
+            {
+                "id": "volunteer_schedule",
+                "label": "Xác nhận lịch hoạt động tình nguyện"
+            }
+        ]
+    }
+}

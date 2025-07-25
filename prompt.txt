@@ -1,0 +1,599 @@
+Viết email xác nhận đặt phòng khách sạn cho anh Nguyễn Văn Nam tại Vinpearl Resort Nha Trang từ ngày 5/8/2025 đến 8/8/2025, kèm thông tin giờ nhận phòng và địa chỉ cụ thể.
+
+Soạn tin nhắn xác nhận đặt phòng đôi cho chị Trần Thị Mỹ Linh tại khách sạn Mường Thanh Cần Thơ, check-in lúc 14h ngày 2/9/2025, check-out ngày 4/9.
+
+Tạo email xác nhận booking phòng nghỉ cho anh Lê Quốc Huy tại khách sạn Sofitel Legend Metropole Hà Nội từ 10/10 đến 12/10, địa chỉ đầy đủ và thông tin liên hệ lễ tân.
+
+Tạo một thông báo đặt phòng thành công cho chị Phạm Thùy Dung tại khách sạn Đà Lạt Palace, đặt từ 1/11 đến 5/11/2025, phòng hướng hồ.
+
+Viết tin nhắn xác nhận cho anh Bùi Minh Hải đã đặt thành công phòng Executive tại Khách sạn Sheraton Saigon từ ngày 15/7 đến 17/7.
+
+Soạn email gửi cho anh Đinh Nhật Tân xác nhận phòng đôi đã được đặt tại khách sạn Pullman Vũng Tàu, từ 21/8 đến 23/8, có bữa sáng.
+
+Tạo email xác nhận đặt phòng cho gia đình chị Nguyễn Ngọc Hà tại khách sạn Green Bay Phú Quốc từ 28/6 đến 2/7/2025.
+
+Soạn nội dung xác nhận booking cho chị Hồ Minh Châu nghỉ tại khách sạn Grand Sunrise 2, Đà Nẵng từ 18/5 đến 20/5.
+
+Tạo một email xác nhận đặt phòng cho anh Trương Thanh Lâm tại khách sạn InterContinental Landmark72 Hà Nội vào ngày 9/9/2025 đến 11/9.
+
+Soạn tin nhắn xác nhận đặt phòng nghỉ dưỡng cuối tuần cho anh Phan Văn Cường tại khách sạn The Cliff Resort Mũi Né, từ 6/9 đến 8/9.
+
+Viết email xác nhận booking cho chị Vũ Thảo Nhi tại khách sạn The Myst Đồng Khởi, TP.HCM từ 3/10 đến 5/10.
+
+Soạn nội dung email xác nhận phòng VIP đã đặt thành công cho anh Nguyễn Hữu Tài tại Khách sạn La Siesta Hội An Resort & Spa.
+
+Tạo tin nhắn xác nhận đặt phòng khách sạn công tác tại khách sạn Liberty Central Saigon cho anh Mai Xuân Lộc, từ 12/11 đến 14/11.
+
+Viết email xác nhận đặt phòng Superior cho chị Trần Ngọc Ánh tại khách sạn Novotel Đà Nẵng Premier Han River.
+
+Soạn nội dung xác nhận đặt phòng cho cặp đôi chị Đoàn Ngọc Diệp và anh Hồ Đức Tâm tại khách sạn Sài Gòn Măng Đen Resort.
+
+Soạn email xác nhận đặt phòng hội nghị cho công ty TNHH Minh Long tại khách sạn Nikko Sài Gòn, ngày 20/10/2025.
+
+Viết tin nhắn xác nhận khách đã đặt phòng 3 người tại khách sạn Sapa Jade Hill Resort & Spa từ 12/12 đến 15/12/2025.
+
+Tạo email xác nhận đặt phòng view biển cho chị Nguyễn Thanh Tú tại khách sạn Premier Pearl Hotel Vũng Tàu.
+
+Viết tin nhắn xác nhận booking thành công cho anh Lâm Quốc Toản tại khách sạn White Sand Quy Nhơn từ 1/8 đến 4/8/2025.
+
+Soạn nội dung xác nhận phòng đơn cho chị Phan Thị Thu Trang tại Khách sạn Iris Cần Thơ, từ 16/9 đến 18/9.
+
+Viết email xác nhận đặt phòng cho khách quốc tế là bà Trần Thị Kim Dung tại khách sạn Park Hyatt Saigon.
+
+Tạo tin nhắn xác nhận anh Nguyễn Hoàng Long đã đặt phòng Deluxe tại khách sạn Melia Vinpearl Cửa Hội.
+
+Soạn email xác nhận chị Võ Mỹ Hạnh đã đặt phòng 2 đêm tại khách sạn Tam Coc Garden Resort Ninh Bình.
+
+Viết nội dung email xác nhận đặt phòng khách sạn Bình Dương Hotel tại 155 Lê Hồng Phong, TP.HCM cho anh Trần Hữu Đạt.
+
+Soạn nội dung xác nhận khách đã đặt phòng tại khách sạn Charm Resort Hồ Tràm từ 22/8 đến 25/8.
+
+Viết tin nhắn xác nhận đặt phòng cho chuyến du lịch trăng mật của anh Nguyễn Khánh Duy và chị Trần Mai Chi tại khách sạn Anantara Quy Nhơn.
+
+Tạo email xác nhận đặt phòng khách sạn Citadines Bayfront Nha Trang cho chị Phạm Minh Thư từ 7/9 đến 10/9/2025.
+
+Soạn nội dung xác nhận đặt phòng nhóm 4 người tại khách sạn Serena Resort Hòa Bình cho gia đình chị Lê Bích Phương.
+
+Viết email xác nhận đặt phòng khách sạn căn hộ (apartment hotel) cho anh Trần Quốc Việt tại Citadines Marina Hạ Long.
+
+Soạn email xác nhận đặt 2 phòng đôi tại khách sạn FLC Grand Hotel Hạ Long cho đoàn khách từ công ty TechLife Việt Nam.
+
+Viết tin nhắn xác nhận khách đã đặt phòng Superior tại khách sạn Fusion Suites Vũng Tàu từ 29/9 đến 2/10/2025.
+
+Viết nội dung email xác nhận đặt phòng khách sạn công vụ tại khách sạn TTC Premium Hotel Cần Thơ cho anh Đỗ Minh Khang.
+
+Soạn tin nhắn xác nhận anh Huỳnh Thanh Tùng đã đặt thành công phòng tại khách sạn Silk Path Boutique Hà Nội.
+
+Viết email xác nhận đặt phòng tại khách sạn Maison Vy Hội An cho chị Nguyễn Hồng Tuyết từ 10/11 đến 13/11/2025.
+
+Soạn tin nhắn xác nhận booking phòng hướng núi tại khách sạn Ladalat cho chị Nguyễn Thị Bảo Trâm.
+
+Viết nội dung xác nhận đặt phòng tại khách sạn Paradise Suites Hạ Long cho anh Trần Minh Cường.
+
+Tạo nội dung xác nhận đặt phòng khách sạn L’Azure Resort Phú Quốc cho chị Mai Thanh Phương từ 8/7 đến 11/7.
+
+Viết email xác nhận khách sạn Le Pavillon Hội An Boutique đã nhận đặt phòng từ chị Vũ Thị Hằng.
+
+Soạn tin nhắn xác nhận phòng Premier Twin đã được đặt thành công tại khách sạn Salinda Resort Phú Quốc.
+
+Viết email xác nhận đặt phòng hội nghị công ty tại khách sạn Eastin Grand Hotel Saigon ngày 19/10.
+
+Soạn email xác nhận đặt phòng 2 giường đơn cho chị Nguyễn Thị Thu Nga tại khách sạn Green World Nha Trang.
+
+Viết tin nhắn xác nhận đặt phòng tại khách sạn Saigon Morin Huế từ 2/9 đến 5/9/2025 cho anh Nguyễn Quốc Đạt.
+
+Soạn nội dung xác nhận booking phòng view sông tại khách sạn Bay Hotel Saigon cho chị Phan Mỹ Hòa.
+
+Viết email xác nhận đặt phòng 4 người tại khách sạn DLG Hotel Đà Nẵng từ 20/8 đến 24/8.
+
+Soạn tin nhắn xác nhận anh Hoàng Đức Mạnh đã đặt phòng Deluxe Sea View tại khách sạn Alma Resort Cam Ranh.
+
+Viết nội dung email xác nhận đặt phòng khách sạn The Reed Ninh Bình cho đoàn khách từ công ty Minh Phúc.
+
+Soạn tin nhắn xác nhận chị Trần Như Quỳnh đã đặt phòng tại khách sạn Samdi Đà Nẵng từ 5/10 đến 7/10/2025.
+
+Viết email xác nhận đặt phòng khách sạn The Mira Bình Dương cho khách lưu trú công tác từ ngày 14/11 đến 16/11.
+
+Soạn nội dung xác nhận đặt phòng view biển tại khách sạn Royal Lotus Hạ Long cho chị Đinh Thị Huyền.
+
+Tạo email xác nhận đặt phòng 2 đêm tại khách sạn Mường Thanh Luxury Nhật Lệ, Quảng Bình cho gia đình anh Vũ Minh Anh.
+
+"Tạo email xác nhận lịch khám sức khỏe cho chị Nguyễn Thị Mai tại Bệnh viện Vinmec Hà Nội, vào lúc 8h00 sáng ngày 12/08/2025.",
+"Viết email thông báo xác nhận đặt lịch khám tổng quát cho anh Trần Văn Hùng tại Phòng khám Đa khoa Pasteur, vào 15h00 ngày 25/07/2025.",
+"Sinh email xác nhận khám nội tiết cho chị Lê Thảo Nguyên tại Bệnh viện Tâm Anh TP.HCM vào 9h30 sáng ngày 05/09/2025.",
+"Tạo mẫu email xác nhận lịch khám tim mạch cho ông Nguyễn Văn Bình tại Viện Tim TP.HCM lúc 10h ngày 18/08/2025.",
+"Viết nội dung email xác nhận lịch khám da liễu tại Phòng khám Dr. Huệ cho bạn Trần Thị Bích Ngọc lúc 14h30 ngày 30/07/2025.",
+"Tạo thông điệp email xác nhận lịch hẹn khám răng miệng cho bé Phạm Gia Bảo tại Nha khoa Kim, vào 16h00 ngày 02/08/2025.",
+"Tạo email xác nhận lịch tái khám sản phụ khoa cho chị Đỗ Thị Lan Anh tại Bệnh viện Phụ sản Hà Nội, lúc 13h00 ngày 07/08/2025.",
+"Viết email xác nhận khám tai mũi họng tại Bệnh viện Quốc tế City cho anh Vũ Minh Đức, lúc 17h00 ngày 01/09/2025.",
+"Soạn email xác nhận đặt khám vật lý trị liệu cho bà Nguyễn Thị Bảy tại Trung tâm phục hồi chức năng quận 3, lúc 10h sáng ngày 10/08/2025.",
+"Tạo email xác nhận đặt lịch khám định kỳ cho bé Nguyễn Bảo Châu tại Bệnh viện Nhi Đồng 1, vào 08h15 ngày 14/08/2025.",
+"Tạo prompt xác nhận lịch khám mắt cho chị Trịnh Hương Giang tại Bệnh viện Mắt Sài Gòn lúc 11h ngày 21/08/2025.",
+"Viết nội dung email xác nhận lịch khám xương khớp tại Bệnh viện Đại học Y Dược cho ông Lê Văn Thanh lúc 9h00 ngày 28/07/2025.,
+Tạo email xác nhận khám tiêu hóa tại Bệnh viện FV cho chị Phan Thị Thu Thủy vào lúc 15h ngày 03/08/2025.,
+Tạo mẫu xác nhận khám theo yêu cầu cho anh Đinh Tiến Dũng tại Phòng khám CarePlus, lúc 10h sáng ngày 09/08/2025.,
+Viết email xác nhận lịch kiểm tra sức khỏe doanh nghiệp cho công ty ABC tại MEDLATEC, ngày 12/09/2025 từ 8h00 đến 11h00.,
+Soạn email xác nhận khám định kỳ cho học sinh Nguyễn Văn Minh tại Bệnh viện Việt Pháp, lúc 13h30 ngày 17/08/2025.,
+Tạo email thông báo xác nhận lịch tiêm phòng cho bé Lê Khánh Huyền tại Viện Pasteur TP.HCM lúc 10h ngày 20/08/2025.,
+Viết email xác nhận tư vấn dinh dưỡng tại Phòng khám Nutrihome cho chị Võ Thị Mỹ Dung lúc 14h ngày 27/08/2025.,
+Soạn mẫu email xác nhận lịch khám hô hấp tại Bệnh viện Phổi Trung Ương cho anh Hoàng Gia Khánh, lúc 8h30 ngày 22/08/2025.
+Tạo email xác nhận khám hậu COVID tại Bệnh viện Nhiệt đới TP.HCM cho bà Nguyễn Thanh Tuyền lúc 15h00 ngày 11/08/2025.
+Viết email xác nhận lịch khám tâm lý cho em Nguyễn Trà My tại Phòng khám tâm lý Happy Mind, 16h ngày 04/09/2025.
+Soạn email xác nhận lịch kiểm tra huyết áp định kỳ cho ông Bùi Đức Toàn tại Trạm Y tế phường Nguyễn Cư Trinh lúc 9h00 ngày 29/08/2025.
+Tạo prompt xác nhận khám mắt định kỳ tại Bệnh viện Mắt Hà Nội 2 cho chị Vũ Thị Hồng, 10h sáng ngày 07/09/2025.
+Viết nội dung email xác nhận lịch xét nghiệm máu cho bạn Đặng Tuấn Anh tại MEDLATEC, vào 7h30 sáng ngày 06/08/2025.
+Soạn email xác nhận lịch khám tiền hôn nhân tại Bệnh viện Quốc tế Hạnh Phúc cho cặp đôi Trâm Anh và Hoàng Dương vào 10h ngày 15/08/2025.
+Tạo email xác nhận đặt lịch tầm soát ung thư tại Bệnh viện K cho anh Nguyễn Văn Khoa, 8h ngày 02/09/2025.
+Viết prompt xác nhận khám da định kỳ tại Phòng khám Rose Clinic cho chị Trần Thị Thu Trang vào 13h ngày 19/08/2025.
+Soạn email xác nhận lịch khám tổng quát cho toàn bộ nhân sự công ty XYZ tại Bệnh viện Quốc tế Thu Cúc vào ngày 01/10/2025.
+Tạo nội dung xác nhận tư vấn sức khỏe trực tuyến với bác sĩ Đặng Hữu Minh qua app eDoctor, lúc 20h00 ngày 12/08/2025.
+Viết email xác nhận lịch xét nghiệm tầm soát tiểu đường tại Trung tâm xét nghiệm Lab Group cho chị Mai Thị Tuyết, 8h ngày 31/07/2025.
+Soạn email xác nhận đặt lịch tiêm ngừa cúm tại VNVC Quận 1, cho anh Huỳnh Thanh Sơn vào 17h ngày 03/08/2025.
+Tạo email xác nhận lịch siêu âm tổng quát tại Bệnh viện Chợ Rẫy cho ông Nguyễn Văn Hiếu vào 11h30 ngày 25/08/2025.
+Viết prompt xác nhận tư vấn chuyên khoa tim mạch qua video call với bác sĩ Trần Ngọc Minh lúc 19h ngày 26/08/2025.
+Soạn email xác nhận lịch đo điện tim tại Phòng khám Đại Phúc cho anh Nguyễn Trọng Tín, 9h45 sáng ngày 14/08/2025.
+Tạo email xác nhận khám ngoại trú cho bé Phạm Gia Linh tại Bệnh viện Nhi Trung Ương, lúc 15h00 ngày 07/09/2025.
+Viết prompt xác nhận lịch tầm soát viêm gan B tại Bệnh viện 115 cho chị Bùi Thị Hồng Nhung lúc 10h00 ngày 22/08/2025.
+Soạn email xác nhận khám định kỳ quý III cho ông Phạm Quốc Việt tại Phòng khám Quốc tế CarePlus, lúc 14h ngày 29/08/2025.
+Tạo prompt xác nhận lịch tư vấn sức khỏe sinh sản cho vợ chồng chị Hoàng và anh Phúc tại Bệnh viện Phụ sản MêKông, lúc 13h30 ngày 06/09/2025.
+Viết email xác nhận kiểm tra tuyến giáp tại Bệnh viện Nguyễn Tri Phương cho anh Trần Minh Hòa lúc 8h45 ngày 01/08/2025.
+Soạn nội dung email xác nhận đăng ký khám BHYT tại Bệnh viện Quận Thủ Đức cho bà Trần Thị Cúc, ngày 04/09/2025 lúc 9h00.
+Tạo email xác nhận lịch kiểm tra sức khỏe định kỳ cho học sinh lớp 5 Trường Tiểu học Kim Đồng, ngày 10/09/2025.
+Viết prompt xác nhận đặt lịch khám mắt cho sinh viên Nguyễn Thành Đạt tại Bệnh viện Mắt Kỹ Thuật Cao lúc 14h30 ngày 18/08/2025.
+Soạn email xác nhận lịch tư vấn sức khỏe trực tuyến cho chị Đào Thị Hương Giang qua ứng dụng Jio Health vào 20h ngày 12/09/2025.
+Tạo email xác nhận lịch khám nội tổng quát tại Bệnh viện Quân Y 175 cho bác Trần Văn Lợi lúc 7h30 sáng ngày 17/08/2025.
+Viết nội dung xác nhận tư vấn kiểm tra chức năng gan cho chị Vương Thị Mai tại Phòng khám Family Medical Practice, 10h ngày 20/08/2025.
+Tạo prompt xác nhận khám định kỳ tại Viện Y Học Dự Phòng Quân Đội cho trung úy Nguyễn Minh Tuấn, 8h00 ngày 05/09/2025.
+Soạn email xác nhận lịch kiểm tra sức khỏe sinh sản cho nữ sinh viên Trường Đại học Y Dược TP.HCM vào 16h00 ngày 14/08/2025.
+Tạo email xác nhận lịch tiêm vaccine ngừa HPV cho chị Đỗ Lệ Quyên tại VNVC Tân Phú, 15h ngày 09/08/2025.
+Viết email xác nhận khám hậu sản tại Bệnh viện Từ Dũ cho sản phụ Lê Thị Thuý Diễm lúc 13h ngày 08/08/2025.
+
+Viết email xác nhận đặt bàn cho anh Nguyễn Minh Quân tại nhà hàng Hoa Mai, số 28 Lê Văn Sỹ, Quận 3, TP.HCM vào lúc 18:30 ngày 12/08/2025 cho 4 người.
+Tạo email xác nhận đặt bàn cho chị Lê Thị Hồng Nhung tại nhà hàng Gió Biển, Đà Nẵng, ngày 15/09/2025, lúc 19:00, bàn gần cửa sổ, 2 người.
+Soạn email cảm ơn và xác nhận đặt chỗ cho anh Phạm Duy Anh tại nhà hàng Tre Việt, Quận 1, TP.HCM lúc 20:00 ngày 25/08/2025.
+Gửi email xác nhận đặt bàn tiệc sinh nhật cho bé Minh Khôi tại nhà hàng Kỳ Hoa, Hải Phòng vào 11:00 ngày 01/09/2025, số lượng khách: 20 người.
+Soạn email xin mở cửa sớm vào 16:00 thay vì 17:00 để tiếp đoàn khách của công ty VinCorp, đã đặt bàn tại nhà hàng Thủy Mộc ngày 22/08/2025.
+Viết email xác nhận đặt chỗ cho buổi hẹn hò của chị Trần Thị Kim Ngân tại nhà hàng L’amour – Hà Nội, ngày 29/08/2025, 2 người, phòng riêng.
+Soạn email xác nhận thay đổi giờ đặt bàn của anh Vũ Minh Trí từ 18:00 sang 19:30 cùng ngày 10/08/2025 tại nhà hàng Bếp Xưa, quận Cầu Giấy.
+Viết email xin xác nhận lại lịch đặt bàn đã đặt từ trước cho ngày 31/08/2025 tại nhà hàng Quê Hương, số 45 Lý Thường Kiệt, Đà Nẵng.
+Tạo email gửi khách xác nhận đã đặt bàn cho tiệc công ty 25 người tại nhà hàng Sen Vàng – TP.HCM, ngày 17/09/2025, phòng riêng, lúc 11:30.
+Soạn email thông báo nhà hàng đã ghi nhận đặt bàn từ anh Nguyễn Thành Công cho tiệc gia đình 6 người vào ngày 14/08/2025 tại Tân Sơn Nhất Golf Club.
+Viết email xác nhận đặt bàn view hồ bơi tại nhà hàng Sky Pearl – Huế cho chị Đặng Thị Thủy Tiên vào lúc 19:00 ngày 02/09/2025.
+Gửi email xác nhận đã điều chỉnh giờ đặt bàn cho anh Hồ Văn Hưng từ 20:00 sang 18:45 ngày 13/08/2025 tại nhà hàng Ngọc Lan.
+Soạn email xác nhận đặt bàn đã bao gồm món chay cho đoàn Phật tử đến dùng bữa tại nhà hàng An Lạc, 15 người, 05/09/2025, lúc 11:00.
+Viết email xác nhận đặt tiệc cưới thử món tại nhà hàng Duyên Hải, Nha Trang, dành cho cặp đôi Trúc – Huy, ngày 12/09/2025 lúc 18:00.
+Tạo email xác nhận đã đặt bàn ngoài trời cho 10 người vào ngày 20/08/2025 tại nhà hàng Phố Cổ Hà Nội.
+Soạn email gửi anh Bùi Thanh Tùng xác nhận nhà hàng đã chuẩn bị bàn tiệc buffet ngày 30/08/2025 tại nhà hàng Kim Cương, Hà Nội.
+Gửi email xác nhận đặt bàn tiệc đính hôn tại nhà hàng Thanh Tùng, TP. HCM ngày 01/10/2025, gồm 35 người, có bánh kem và trang trí hoa.
+Soạn email cảm ơn và xác nhận chị Nguyễn Thị Hải Yến đã đặt bàn dùng bữa tối với đối tác Nhật Bản tại nhà hàng Nhật Bản Fuji – quận 7.
+Viết email xác nhận đặt bàn cho buổi họp lớp cấp 3 của anh Trần Quang Dũng tại nhà hàng Sài Gòn Xưa, ngày 15/08/2025, 15 người.
+Soạn email xác nhận chuyển địa điểm từ chi nhánh Trần Hưng Đạo sang chi nhánh Lê Đại Hành, theo yêu cầu của anh Vinh – đã đặt bàn ngày 23/08.
+Tạo email xác nhận đặt bàn kèm yêu cầu thực đơn không cay cho gia đình chị Mai vào ngày 18/08/2025 tại nhà hàng Hương Vị Biển.
+Viết email xác nhận đặt chỗ ngồi tầng thượng tại nhà hàng Sky Garden – TP.HCM vào lúc 20:00 ngày 09/09/2025 cho 3 người.
+Soạn email gửi chị Huỳnh Như xác nhận nhà hàng đã chuẩn bị sẵn ghế trẻ em theo yêu cầu trong đơn đặt bàn ngày 21/08/2025.
+Tạo email xin xác nhận lại thông tin đặt bàn cho anh Lê Văn Khoa tại nhà hàng Lẩu Nấm Tươi, ngày 07/09/2025, 4 người, 18:00.
+Gửi email xác nhận đặt chỗ có trang trí sinh nhật cho bé Ngọc Anh tại nhà hàng Búp Sen Xanh, ngày 26/08/2025.
+Soạn email xác nhận đặt bàn VIP tại nhà hàng Sakura – Sài Gòn cho đoàn khách từ Nhật Bản của công ty Khang Minh, ngày 11/09/2025.
+Viết email xác nhận anh Nguyễn Văn Hậu đã đặt bàn cho buổi gặp mặt gia đình tại nhà hàng Thảo Mộc Xanh vào ngày 19/08/2025.
+Tạo email xác nhận đặt bàn phục vụ món thuần Việt cho khách quốc tế tại nhà hàng Cổ Ngư – Hà Nội ngày 22/08/2025.
+Soạn email xác nhận đặt bàn tiệc công đoàn giáo viên tại nhà hàng Hoa Sen Trắng, TP.HCM ngày 28/09/2025, 40 người.
+Viết email cảm ơn và xác nhận chị Nguyễn Diễm Quỳnh đã đặt bàn chiều ngày 01/09/2025 tại nhà hàng Bếp Nhà Mình – Đà Nẵng.
+Tạo email xác nhận anh Trần Quốc Tuấn đã đặt tiệc tất niên công ty tại nhà hàng Royal Garden, Hà Nội ngày 25/12/2025.
+Gửi email xác nhận có chỗ đậu xe riêng theo yêu cầu của anh Phan Minh Hải khi đặt bàn ngày 10/08/2025 tại nhà hàng Vườn Quê.
+Soạn email xác nhận đặt bàn phục vụ đồ ăn Hàn Quốc cho nhóm 5 người vào ngày 16/08/2025 tại nhà hàng Seoul BBQ.
+Viết email xác nhận đã sắp xếp chỗ ngồi không hút thuốc theo yêu cầu đặt bàn của chị Trâm vào ngày 30/08/2025 tại nhà hàng Gió Mát.
+Tạo email xác nhận đặt bàn gần sân khấu để xem biểu diễn ca nhạc tại nhà hàng Sài Gòn By Night ngày 12/09/2025.
+Soạn email xác nhận lịch dùng bữa trưa của chị Nguyễn Hoàng Yến tại nhà hàng Đồi Thông Xanh, Đà Lạt vào lúc 12:00 ngày 14/08/2025.
+Viết email cảm ơn anh Quang Huy đã đặt bàn ăn trưa cùng đối tác nước ngoài tại nhà hàng Fusion – TP.HCM ngày 19/08/2025.
+Gửi email xác nhận chị Lý Kim Phụng đã chọn thực đơn tiệc set menu cho 8 người vào ngày 03/09/2025 tại nhà hàng Tây Hồ.
+Soạn email xác nhận buổi đặt bàn tại nhà hàng chay Tâm An của đoàn khách đến từ chùa Giác Ngộ vào ngày 06/09/2025.
+Tạo email xác nhận đã chuẩn bị món ăn theo yêu cầu ăn kiêng cho anh Huyền tại nhà hàng Organic Food Garden ngày 21/08/2025.
+Viết email xác nhận thay đổi thời gian đặt bàn từ buổi tối sang buổi trưa ngày 25/08/2025 của gia đình anh Trường tại nhà hàng Gạo Việt.
+Soạn email xác nhận đã chuẩn bị bánh sinh nhật và nến theo yêu cầu đặt bàn của chị Hương ngày 17/08/2025 tại nhà hàng Lumière.
+Tạo email xác nhận địa điểm đã sẵn sàng tiếp đón đoàn học sinh liên hoan cuối năm tại nhà hàng Bé Thỏ ngày 29/08/2025.
+Viết email xác nhận đặt bàn có không gian riêng tư cho cuộc họp tại nhà hàng Nhã Nam – Hà Nội ngày 01/09/2025.
+Gửi email xác nhận đặt bàn buổi sáng hiếm (07:30 sáng) tại nhà hàng Chay Tịnh Tâm – TP.HCM cho gia đình chị Lan ngày 18/08/2025.
+Soạn email xác nhận anh Tấn đã đặt bàn gần hồ cá Koi cho bữa tối lãng mạn tại nhà hàng Zen Garden – ngày 13/08/2025.
+Viết email xác nhận chị Phạm Mỹ Linh đã chọn gói tiệc set lunch cho ngày 20/08/2025 tại nhà hàng Đậm Đà Vị Quê.
+Tạo email xác nhận khách đã đặt bàn tiệc tri ân giáo viên tại nhà hàng Ánh Sao Biển – Vũng Tàu ngày 05/09/2025.
+Viết email xác nhận đặt bàn cho anh Nguyễn Minh Quân tại nhà hàng Hoa Mai, số 28 Lê Văn Sỹ, Quận 3, TP.HCM vào lúc 18:30 ngày 12/08/2025 cho 4 người.
+Tạo email xác nhận đặt bàn cho chị Lê Thị Hồng Nhung tại nhà hàng Gió Biển, Đà Nẵng, ngày 15/09/2025, lúc 19:00, bàn gần cửa sổ, 2 người.
+Soạn email cảm ơn và xác nhận đặt chỗ cho anh Phạm Duy Anh tại nhà hàng Tre Việt, Quận 1, TP.HCM lúc 20:00 ngày 25/08/2025.
+Gửi email xác nhận đặt bàn tiệc sinh nhật cho bé Minh Khôi tại nhà hàng Kỳ Hoa, Hải Phòng vào 11:00 ngày 01/09/2025, số lượng khách: 20 người.
+Soạn email xin mở cửa sớm vào 16:00 thay vì 17:00 để tiếp đoàn khách của công ty VinCorp, đã đặt bàn tại nhà hàng Thủy Mộc ngày 22/08/2025.
+Viết email xác nhận đặt chỗ cho buổi hẹn hò của chị Trần Thị Kim Ngân tại nhà hàng L’amour – Hà Nội, ngày 29/08/2025, 2 người, phòng riêng.
+Soạn email xác nhận thay đổi giờ đặt bàn của anh Vũ Minh Trí từ 18:00 sang 19:30 cùng ngày 10/08/2025 tại nhà hàng Bếp Xưa, quận Cầu Giấy.
+Viết email xin xác nhận lại lịch đặt bàn đã đặt từ trước cho ngày 31/08/2025 tại nhà hàng Quê Hương, số 45 Lý Thường Kiệt, Đà Nẵng.
+Tạo email gửi khách xác nhận đã đặt bàn cho tiệc công ty 25 người tại nhà hàng Sen Vàng – TP.HCM, ngày 17/09/2025, phòng riêng, lúc 11:30.
+Soạn email thông báo nhà hàng đã ghi nhận đặt bàn từ anh Nguyễn Thành Công cho tiệc gia đình 6 người vào ngày 14/08/2025 tại Tân Sơn Nhất Golf Club.
+Viết email xác nhận đặt bàn view hồ bơi tại nhà hàng Sky Pearl – Huế cho chị Đặng Thị Thủy Tiên vào lúc 19:00 ngày 02/09/2025.
+Gửi email xác nhận đã điều chỉnh giờ đặt bàn cho anh Hồ Văn Hưng từ 20:00 sang 18:45 ngày 13/08/2025 tại nhà hàng Ngọc Lan.
+Soạn email xác nhận đặt bàn đã bao gồm món chay cho đoàn Phật tử đến dùng bữa tại nhà hàng An Lạc, 15 người, 05/09/2025, lúc 11:00.
+Viết email xác nhận đặt tiệc cưới thử món tại nhà hàng Duyên Hải, Nha Trang, dành cho cặp đôi Trúc – Huy, ngày 12/09/2025 lúc 18:00.
+Tạo email xác nhận đã đặt bàn ngoài trời cho 10 người vào ngày 20/08/2025 tại nhà hàng Phố Cổ Hà Nội.
+Soạn email gửi anh Bùi Thanh Tùng xác nhận nhà hàng đã chuẩn bị bàn tiệc buffet ngày 30/08/2025 tại nhà hàng Kim Cương, Hà Nội.
+Gửi email xác nhận đặt bàn tiệc đính hôn tại nhà hàng Thanh Tùng, TP. HCM ngày 01/10/2025, gồm 35 người, có bánh kem và trang trí hoa.
+Soạn email cảm ơn và xác nhận chị Nguyễn Thị Hải Yến đã đặt bàn dùng bữa tối với đối tác Nhật Bản tại nhà hàng Nhật Bản Fuji – quận 7.
+Viết email xác nhận đặt bàn cho buổi họp lớp cấp 3 của anh Trần Quang Dũng tại nhà hàng Sài Gòn Xưa, ngày 15/08/2025, 15 người.
+Soạn email xác nhận chuyển địa điểm từ chi nhánh Trần Hưng Đạo sang chi nhánh Lê Đại Hành, theo yêu cầu của anh Vinh – đã đặt bàn ngày 23/08.
+Tạo email xác nhận đặt bàn kèm yêu cầu thực đơn không cay cho gia đình chị Mai vào ngày 18/08/2025 tại nhà hàng Hương Vị Biển.
+Viết email xác nhận đặt chỗ ngồi tầng thượng tại nhà hàng Sky Garden – TP.HCM vào lúc 20:00 ngày 09/09/2025 cho 3 người.
+Soạn email gửi chị Huỳnh Như xác nhận nhà hàng đã chuẩn bị sẵn ghế trẻ em theo yêu cầu trong đơn đặt bàn ngày 21/08/2025.
+Tạo email xin xác nhận lại thông tin đặt bàn cho anh Lê Văn Khoa tại nhà hàng Lẩu Nấm Tươi, ngày 07/09/2025, 4 người, 18:00.
+Gửi email xác nhận đặt chỗ có trang trí sinh nhật cho bé Ngọc Anh tại nhà hàng Búp Sen Xanh, ngày 26/08/2025.
+Soạn email xác nhận đặt bàn VIP tại nhà hàng Sakura – Sài Gòn cho đoàn khách từ Nhật Bản của công ty Khang Minh, ngày 11/09/2025.
+Viết email xác nhận anh Nguyễn Văn Hậu đã đặt bàn cho buổi gặp mặt gia đình tại nhà hàng Thảo Mộc Xanh vào ngày 19/08/2025.
+Tạo email xác nhận đặt bàn phục vụ món thuần Việt cho khách quốc tế tại nhà hàng Cổ Ngư – Hà Nội ngày 22/08/2025.
+Soạn email xác nhận đặt bàn tiệc công đoàn giáo viên tại nhà hàng Hoa Sen Trắng, TP.HCM ngày 28/09/2025, 40 người.
+Viết email cảm ơn và xác nhận chị Nguyễn Diễm Quỳnh đã đặt bàn chiều ngày 01/09/2025 tại nhà hàng Bếp Nhà Mình – Đà Nẵng.
+Tạo email xác nhận anh Trần Quốc Tuấn đã đặt tiệc tất niên công ty tại nhà hàng Royal Garden, Hà Nội ngày 25/12/2025.
+Gửi email xác nhận có chỗ đậu xe riêng theo yêu cầu của anh Phan Minh Hải khi đặt bàn ngày 10/08/2025 tại nhà hàng Vườn Quê.
+Soạn email xác nhận đặt bàn phục vụ đồ ăn Hàn Quốc cho nhóm 5 người vào ngày 16/08/2025 tại nhà hàng Seoul BBQ.
+Viết email xác nhận đã sắp xếp chỗ ngồi không hút thuốc theo yêu cầu đặt bàn của chị Trâm vào ngày 30/08/2025 tại nhà hàng Gió Mát.
+Tạo email xác nhận đặt bàn gần sân khấu để xem biểu diễn ca nhạc tại nhà hàng Sài Gòn By Night ngày 12/09/2025.
+Soạn email xác nhận lịch dùng bữa trưa của chị Nguyễn Hoàng Yến tại nhà hàng Đồi Thông Xanh, Đà Lạt vào lúc 12:00 ngày 14/08/2025.
+Viết email cảm ơn anh Quang Huy đã đặt bàn ăn trưa cùng đối tác nước ngoài tại nhà hàng Fusion – TP.HCM ngày 19/08/2025.
+Gửi email xác nhận chị Lý Kim Phụng đã chọn thực đơn tiệc set menu cho 8 người vào ngày 03/09/2025 tại nhà hàng Tây Hồ.
+Soạn email xác nhận buổi đặt bàn tại nhà hàng chay Tâm An của đoàn khách đến từ chùa Giác Ngộ vào ngày 06/09/2025.
+Tạo email xác nhận đã chuẩn bị món ăn theo yêu cầu ăn kiêng cho anh Huyền tại nhà hàng Organic Food Garden ngày 21/08/2025.
+Viết email xác nhận thay đổi thời gian đặt bàn từ buổi tối sang buổi trưa ngày 25/08/2025 của gia đình anh Trường tại nhà hàng Gạo Việt.
+Soạn email xác nhận đã chuẩn bị bánh sinh nhật và nến theo yêu cầu đặt bàn của chị Hương ngày 17/08/2025 tại nhà hàng Lumière.
+Tạo email xác nhận địa điểm đã sẵn sàng tiếp đón đoàn học sinh liên hoan cuối năm tại nhà hàng Bé Thỏ ngày 29/08/2025.
+Viết email xác nhận đặt bàn có không gian riêng tư cho cuộc họp tại nhà hàng Nhã Nam – Hà Nội ngày 01/09/2025.
+Gửi email xác nhận đặt bàn buổi sáng hiếm (07:30 sáng) tại nhà hàng Chay Tịnh Tâm – TP.HCM cho gia đình chị Lan ngày 18/08/2025.
+Soạn email xác nhận anh Tấn đã đặt bàn gần hồ cá Koi cho bữa tối lãng mạn tại nhà hàng Zen Garden – ngày 13/08/2025.
+Viết email xác nhận chị Phạm Mỹ Linh đã chọn gói tiệc set lunch cho ngày 20/08/2025 tại nhà hàng Đậm Đà Vị Quê.
+Tạo email xác nhận khách đã đặt bàn tiệc tri ân giáo viên tại nhà hàng Ánh Sao Biển – Vũng Tàu ngày 05/09/2025.
+Soạn email cảm ơn và xác nhận đặt bàn dùng bữa trưa của chị Ngọc Diệp tại nhà hàng Mộc Mạc Quán ngày 11/08/2025.
+Viết email xác nhận đặt tour du lịch Đà Lạt cho khách hàng Nguyễn Minh Thảo, khởi hành ngày 12/08/2025, bao gồm lịch trình chi tiết và thông tin hướng dẫn viên.
+Soạn email thông báo tour Phú Quốc khởi hành ngày 10/09/2025 bị hoãn một ngày do thời tiết xấu, gửi khách hàng Lê Văn Duy.
+Viết thư xác nhận khách hàng Trần Thị Hương đã đăng ký thành công tour khám phá Huế 3 ngày 2 đêm, xuất phát từ Hà Nội.
+Gửi email nhắc khách hàng Nguyễn Quang Long chuẩn bị giấy tờ cần thiết cho chuyến tour Singapore – Malaysia ngày 01/11/2025.
+Viết email mời khách hàng cũ tham gia tour mới 'Hành trình miền Tây sông nước' với ưu đãi giảm 20% trong tháng 8.
+Tạo email xác nhận đã thay đổi lịch trình tour Hội An cho khách Lê Thị Bích sang ngày 16/09/2025 theo yêu cầu.
+Soạn email cảm ơn khách hàng đã tham gia tour Phan Thiết cuối tuần qua và đính kèm link khảo sát hài lòng.
+Viết email xác nhận đặt tour du lịch Đà Nẵng cho nhóm 5 người, trưởng đoàn là Phạm Văn Hòa, khởi hành ngày 20/08/2025.
+Gửi email xác nhận lịch trình tour Ninh Bình của khách hàng Vũ Thanh Tú đã được cập nhật lại giờ đón lúc 6:30 sáng.
+Viết email gửi khách hàng Lâm Thị Mỹ thông báo lịch trình tour Hạ Long 2 ngày đã thay đổi giờ khởi hành sang 9:00 sáng.
+Soạn email xác nhận đặt tour 'Khám phá Sa Pa' cho gia đình chị Mai Anh (4 người), khởi hành ngày 01/10/2025.
+Viết thư chúc mừng khách hàng đạt giải thưởng tour miễn phí du lịch Côn Đảo 3 ngày 2 đêm.
+Tạo email thông báo tour Thái Lan có lịch trình thay đổi điểm tham quan theo yêu cầu của đa số khách.
+Viết email xác nhận booking tour xuyên Việt 7 ngày cho nhóm bạn của Trần Quốc Bảo, xuất phát tại TP.HCM.
+Soạn thư giới thiệu tour mới 'Khám phá miền Trung' với các địa danh Huế - Đà Nẵng - Hội An, khai trương tháng 9.
+Tạo email xác nhận khách hàng đã thanh toán đủ cho tour Phú Yên, khởi hành ngày 17/08/2025.
+Viết email thông báo tour nước ngoài yêu cầu hộ chiếu còn hạn ít nhất 6 tháng, gửi khách hàng Nguyễn Hữu Bình.
+Gửi email xác nhận voucher giảm giá 15% cho khách đặt tour Hà Giang trong tuần này.
+Viết thư xác nhận đặt thành công tour 3 đảo Nha Trang ngày 14/08/2025, xe đón tại khách sạn Havana.
+Soạn thư gửi khách Nguyễn Hoài Nam xác nhận thay đổi số lượng người tham gia tour từ 2 lên 4 người.
+Tạo email thông báo tour Campuchia ngày 20/10 bị dời sang ngày 22/10 do lý do kỹ thuật.
+Viết thư mời khách hàng tham gia hội thảo giới thiệu tour Nhật Bản 6 ngày, nhận quà tặng tại sự kiện.
+Soạn email nhắc nhở thời hạn thanh toán cuối cùng cho tour Tây Bắc ngày 05/09/2025.
+Gửi email thông báo tour Bali có thêm điểm đến mới là cánh đồng lúa Tegallalang.
+Viết thư xác nhận khách hàng đã hoàn tất đăng ký tour Pháp - Ý khởi hành 15/11/2025.
+Viết email gửi khách hàng Trần Văn Hùng xác nhận xe đưa đón tour Vũng Tàu sẽ đến lúc 5:45 sáng.
+Soạn thư xác nhận thay đổi hạng phòng khách sạn trong tour Phú Quốc theo yêu cầu khách hàng.
+Tạo email gửi khách hàng thông báo lịch trình chi tiết tour Nhật Bản kèm danh sách đồ mang theo.
+Gửi email mời khách hàng đăng ký tour Đà Lạt mùa hoa dã quỳ với ưu đãi 1 triệu đồng.
+Viết thư xác nhận đăng ký tour 'Con đường di sản miền Trung', xuất phát ngày 08/09/2025.
+Soạn email xác nhận lịch bay tour Hàn Quốc của khách hàng đã được cập nhật.
+Viết thư cảm ơn và xin đánh giá tour vừa qua tại Phan Thiết từ khách hàng Võ Thị Kim Chi.
+Tạo email thông báo hủy một điểm tham quan trong tour vì lý do bất khả kháng, thay thế bằng địa điểm tương đương.
+Soạn thư thông báo thời gian check-in khách sạn trong tour Bà Nà Hills đã thay đổi.
+Viết email xác nhận khách hàng đã chọn gói ăn uống đặc biệt trong tour Lý Sơn.
+Gửi email gửi kèm file lịch trình chi tiết tour Hà Nội – Mai Châu cho khách hàng Trần Văn Minh.
+Viết email xác nhận đăng ký tour Tết Quý Tỵ tại Bangkok 4 ngày 3 đêm.
+Soạn email xác nhận khách hàng Nguyễn Thị Huyền đăng ký tour riêng 2 người đi Sa Pa.
+Tạo email mời khách hàng trải nghiệm tour du lịch tâm linh tại Yên Tử đầu xuân.
+Viết thư xác nhận xe đưa đón khách trong tour được thay đổi sang xe 29 chỗ do số lượng tăng.
+Gửi email xác nhận khách hàng đã chọn tour trọn gói bao gồm vé máy bay và khách sạn.
+Viết thư cảm ơn khách hàng đã giới thiệu bạn bè cùng tham gia tour và thông báo tặng thêm 1 đêm nghỉ miễn phí.
+Soạn email gửi khách hàng xác nhận tour Phan Rang khởi hành lúc 22h đêm từ TP.HCM.
+Tạo email nhắc khách hàng chuẩn bị thuốc chống say xe cho tour dài ngày.
+Viết email xác nhận khách hàng đã đăng ký tour ghép đoàn đi Cần Thơ ngày 05/08/2025.
+Soạn thư thông báo khách được nâng cấp phòng khách sạn miễn phí trong tour Vũng Tàu.
+Gửi email xác nhận tour Tây Nguyên có bao gồm bữa tiệc BBQ tối tại Buôn Đôn.
+Viết thư xác nhận khách hàng đã chọn tour 'Sống chậm ở Hội An' và đính kèm file thông tin chi tiết.
+Tạo email xác nhận khách hàng đã thanh toán đặt cọc cho tour Bắc Kạn khởi hành 25/08/2025.
+Gửi thư mời khách hàng tham gia tour đêm Cần Giờ với ưu đãi 30% nếu đặt trong hôm nay.
+Viết email xác nhận đặt xe 4 chỗ từ Hà Nội đi Hải Phòng vào ngày 28/7 lúc 7h sáng, người đặt là Nguyễn Văn Nam, số điện thoại 0912xxxxxx.
+
+Tạo email xác nhận thuê xe tự lái 7 chỗ trong 3 ngày tại Đà Nẵng, thời gian nhận xe là 9h sáng ngày 15/8, trả xe ngày 18/8.
+
+Viết email xác nhận ghép chuyến đi từ TP.HCM đến Bảo Lộc, khởi hành lúc 6h30 ngày 2/8, tên khách hàng là Trần Thị Mỹ Linh.
+
+Tạo email xác nhận đặt xe limousine tuyến Hà Nội - Thanh Hóa cho ngày 5/8 lúc 14h, chỗ ngồi số 3A.
+
+Viết email xác nhận thuê xe tải 1.25 tấn chở hàng tại quận Bình Tân, TPHCM vào ngày 3/9 lúc 10h sáng.
+
+Tạo email xác nhận đặt xe đưa đón sân bay Nội Bài cho gia đình 5 người, giờ đón là 4h sáng ngày 25/7 tại số 23 Lê Duẩn, Hà Nội.
+
+Viết email thông báo đã đổi lịch chuyến xe khách tuyến Quảng Bình - Huế từ 7h sáng sang 10h sáng cùng ngày.
+
+Tạo email xác nhận thuê xe cưới tại Hà Nội, loại xe Mercedes, thời gian 8h sáng đến 2h chiều ngày 20/8.
+
+Viết email xác nhận đã ghép chuyến thành công từ Biên Hòa đi Long Khánh cho khách hàng Lê Quốc Anh, ngày đi là 28/7.
+
+Tạo email xác nhận thuê xe máy Honda Air Blade 2022 trong 2 ngày tại Đà Lạt, nhận xe lúc 10h ngày 12/9.
+
+Viết email xác nhận thay đổi điểm đón xe từ số 5 Nguyễn Thị Minh Khai sang số 45 Lý Tự Trọng, Quận 1, TP.HCM.
+
+Tạo email xác nhận đặt xe 16 chỗ cho đoàn công tác tại Cần Thơ, ngày đi 10/8, thời gian đón 6h sáng.
+
+Viết email xác nhận gia hạn thuê xe thêm 1 ngày, xe đang thuê là Ford Ranger, biển số 51G-123.45.
+
+Tạo email xác nhận chuyển thời gian thuê xe từ 9h sang 11h cùng ngày do khách bận lịch đột xuất.
+
+Viết email xác nhận đặt xe container chở hàng từ cảng Cát Lái về KCN Sóng Thần, thời gian nhận 8h sáng ngày 1/9.
+
+Tạo email xác nhận đặt xe buýt du lịch từ Đà Nẵng đi Hội An cho nhóm khách Nhật, khởi hành lúc 15h ngày 7/8.
+
+Viết email xác nhận khách đã thanh toán trước 50% cho dịch vụ thuê xe tháng tại TP.HCM.
+
+Tạo email xác nhận đã đặt xe đưa rước học sinh từ Quận 7 đến Trường Quốc tế ABC, giờ đón là 6h45 sáng mỗi ngày.
+
+Viết email xác nhận đặt taxi 7 chỗ đến đón lúc 22h ngày 1/8 tại sân bay Tân Sơn Nhất.
+
+Tạo email xác nhận đặt xe tải chuyển nhà từ quận Gò Vấp sang quận Tân Phú, ngày 3/8.
+
+Viết email xác nhận chuyến xe VIP từ Hà Nội đi Sa Pa ngày 30/7 đã được đặt thành công.
+
+Tạo email xác nhận đặt xe hoa phục vụ đám cưới tại Quảng Ngãi, giờ giao xe 6h sáng ngày 25/8.
+
+Viết email xác nhận đặt xe công vụ từ UBND Quận 3 đi Sở Tài chính TP.HCM vào sáng thứ Hai.
+
+Tạo email xác nhận chuyển chuyến xe từ ngày 15/8 sang 17/8 theo yêu cầu của khách.
+
+Viết email xác nhận điểm trả khách được cập nhật là 23 Nguyễn Văn Cừ, TP. Bắc Ninh.
+
+Tạo email xác nhận khách đã đăng ký dịch vụ thuê xe kèm tài xế trong 2 ngày tại Huế.
+
+Viết email xác nhận dịch vụ xe đưa đón lễ hội tại chùa Yên Tử cho nhóm khách đoàn 12 người.
+
+Tạo email xác nhận đặt xe đón khách nước ngoài tại ga Huế lúc 11h30 sáng ngày 12/8.
+
+Viết email xác nhận thay đổi loại xe từ 4 chỗ sang 7 chỗ theo yêu cầu khách hàng Trần Nhật Hào.
+
+Tạo email xác nhận đặt chuyến xe chạy đêm tuyến Vũng Tàu - Sài Gòn, ghế 1A, 1B.
+
+Viết email xác nhận đặt xe đi công tác từ Hà Nội vào TP. Vinh, ngày đi 5/8, xe có wifi và nước suối.
+
+Tạo email xác nhận đặt xe theo giờ tại TP.HCM, 4 tiếng, loại xe Kia Carnival, ngày 3/9.
+
+Viết email xác nhận khách đã đặt thành công combo xe + tài xế + xăng cho chuyến đi Phan Thiết.
+
+Tạo email xác nhận khách đã đặt tour xe jeep tham quan Mũi Né lúc 4h30 sáng ngày 6/8.
+
+Viết email xác nhận khách hàng đã đặt chuyến xe đưa đón lễ cưới, thời gian đón 9h ngày 14/8 tại 124 Lê Văn Lương, Hà Nội.
+
+Tạo email xác nhận khách đã đặt xe điện VinFast phục vụ đưa đón tại Phú Quốc.
+
+Viết email xác nhận đặt thành công xe khách chất lượng cao tuyến Hà Nội - Lạng Sơn ngày 20/8.
+
+Tạo email xác nhận xe 29 chỗ đưa đón tham quan khu di tích Củ Chi cho đoàn học sinh trường THCS Hùng Vương.
+
+Viết email xác nhận thay đổi ngày nhận xe thuê từ 12/8 sang 14/8, tên khách hàng: Bùi Minh Tâm.
+
+Tạo email xác nhận đặt xe 5 chỗ từ sân bay Cam Ranh về Nha Trang lúc 23h ngày 9/8.
+
+Viết email xác nhận xe đưa đón sân bay của công ty đã được điều phối cho chuyến 6h sáng ngày 18/8.
+
+Tạo email xác nhận thuê xe chạy Grab theo giờ trong 3 tiếng tại TP. Đà Nẵng.
+
+Viết email xác nhận khách đã thanh toán cọc 30% cho dịch vụ thuê xe tháng tại công ty ABC Logistics.
+
+Tạo email xác nhận đặt chuyến xe khách đi Pleiku từ Bến xe Miền Đông ngày 22/8, ghế số 11A.
+
+Viết email xác nhận thuê xe tải chuyển văn phòng ngày 31/8 tại khu vực quận 1, TPHCM.
+
+Tạo email xác nhận khách đã đổi chuyến xe do lý do thời tiết, giờ khởi hành mới là 10h sáng.
+
+Viết email xác nhận đặt xe trung chuyển từ khách sạn Mường Thanh Huế ra sân bay Phú Bài.
+
+Tạo email xác nhận đặt xe VIP đón giám đốc từ sân bay Nội Bài về Văn phòng chính tại 99 Trần Hưng Đạo.
+
+Viết email xác nhận thuê xe 2 chiều TP.HCM – Vũng Tàu cho ngày 10/9, thời gian đón 7h sáng.
+
+Tạo email xác nhận thuê xe 7 chỗ chở hàng cưới từ Hội An về Tam Kỳ, ngày đi 2/9.
+
+Viết email xác nhận lịch hẹn tư vấn với anh Nguyễn Văn Long vào lúc 14h30 ngày 27/08 tại văn phòng 12 Nguyễn Đình Chiểu, Quận 1, TP.HCM.,
+Soạn email gửi chị Mai xác nhận buổi tư vấn tài chính lúc 10h sáng thứ Ba tuần tới tại số 38 Trần Hưng Đạo, Hà Nội.,
+Viết email thông báo lịch hẹn tư vấn bảo hiểm với bạn Trần Minh Nhật vào ngày 02/09 lúc 16h tại cà phê Highlands số 3 Nguyễn Huệ, Quận 1.,
+Tạo email nhắc lịch buổi tư vấn nghề nghiệp với chị Thu Hà vào 9h00 sáng thứ Hai tại văn phòng 15 Tô Hiến Thành, Đà Nẵng.,
+Soạn email xác nhận lại lịch làm việc với anh Phạm Quốc Khánh về dự án truyền thông lúc 15h ngày 30/08 tại tầng 8 tòa nhà Vietcom, Cầu Giấy.,
+Viết email gửi khách hàng để xác nhận lịch tư vấn pháp lý vào lúc 11h ngày 31/08 tại phòng 405, số 92 Nguyễn Thị Minh Khai, Quận 3.,
+Tạo email lịch sự để xác nhận buổi tư vấn sức khỏe tinh thần vào 17h00 ngày mai, tại 42 Lê Văn Sỹ, Phú Nhuận, TP.HCM.,
+Viết email xác nhận lại lịch gặp tư vấn viên Nguyễn Phúc Thịnh vào 14h thứ Năm tại địa chỉ 101 Pasteur, Quận 1.,
+Tạo email nhắc khách hàng Trịnh Thị Yến về lịch hẹn tư vấn nhà đất vào sáng thứ Sáu lúc 9h tại số 6 Lý Thường Kiệt, Hà Nội.,
+Soạn email thông báo anh Hòa đã được xác nhận lịch làm việc với chuyên gia đầu tư lúc 13h ngày 29/08 tại văn phòng số 28 Nguyễn Cư Trinh.,
+Viết email cảm ơn và xác nhận buổi tư vấn định cư với chị Bích Hạnh lúc 15h ngày 3/9 tại văn phòng ở số 24 Nguyễn Văn Linh, Đà Nẵng.,
+Tạo email xác nhận buổi họp tư vấn chiến lược marketing với bạn Minh Châu, vào 8h30 sáng thứ Tư tuần tới tại 57 Huỳnh Thúc Kháng, Hà Nội.,
+Soạn email lịch sự xác nhận cuộc hẹn tư vấn pháp lý trực tuyến qua Zoom lúc 19h00 ngày 28/08.,
+Viết email gửi anh Hưng xác nhận cuộc hẹn tư vấn về khởi nghiệp lúc 10h ngày 1/9 tại không gian làm việc 99 Cách Mạng Tháng 8, TP.HCM.,
+Tạo email nhắc nhở khách về cuộc hẹn tư vấn bảo hiểm nhân thọ với chuyên viên Mai Hương vào 13h30 ngày mai tại số 9 Lê Lai, Đà Lạt.,
+Viết email lịch sự xin chuyển lịch hẹn tư vấn với chị Hồng từ 10h sang 14h cùng ngày, địa điểm không đổi: 63 Lê Quý Đôn, Hà Nội.,
+Tạo email xác nhận lịch làm việc tư vấn xây dựng thương hiệu với bạn Lê Hoàng vào ngày 02/09 lúc 15h30 tại văn phòng Bitexco.,
+Soạn email thông báo dời lịch hẹn tư vấn dự án đến thứ Bảy tuần này, vào lúc 17h tại 28 Võ Văn Tần, Quận 3.,
+Viết email xác nhận buổi tư vấn tâm lý học đường với phụ huynh em Minh Nhật lúc 10h sáng thứ Hai tại trường THPT Trần Phú.,
+Tạo email xác nhận cuộc gọi tư vấn chiến lược tài chính cá nhân vào 20h ngày 26/08 qua số điện thoại đã đăng ký.,
+Soạn email gửi anh Duy xác nhận lịch họp tư vấn đầu tư cổ phiếu vào 9h30 ngày 28/08 tại văn phòng số 3 Đinh Tiên Hoàng, Hà Nội.,
+Viết email xác nhận lịch làm việc với chị Trâm Anh về kế hoạch học bổng du học lúc 14h ngày 01/09 qua Google Meet.,
+Tạo email lịch sự xin phép đổi lịch tư vấn từ ngày 29/08 sang ngày 31/08, giờ hẹn giữ nguyên: 16h tại văn phòng Trần Khánh Dư.,
+Soạn email nhắc lịch gặp chuyên viên Nguyễn Hữu Nam tư vấn mua nhà lúc 15h30 ngày mai tại 37 Lý Chính Thắng.,
+Viết email xác nhận buổi tư vấn sức khỏe định kỳ với bác sĩ Thu Hà lúc 8h thứ Bảy tại Phòng khám Tâm An, TP. Vinh.,
+Tạo email cảm ơn anh Bình và xác nhận buổi tư vấn pháp lý tại 72 Bà Triệu, Hà Nội lúc 10h sáng thứ Tư tuần sau.,
+Soạn email gửi chị Tuyết xác nhận buổi tư vấn định hướng nghề nghiệp vào lúc 9h30 ngày 27/08 tại không gian cà phê Guta, Quận 10.,
+Viết email xác nhận lịch tư vấn tài chính cho gia đình anh Hào vào chiều Chủ Nhật tuần này tại nhà riêng, số 88 Tôn Đức Thắng, Huế.,
+Tạo email lịch sự xác nhận lịch tư vấn chiến lược nội dung online qua Microsoft Teams, vào lúc 19h30 ngày 28/08.,
+Soạn email xin chuyển cuộc hẹn tư vấn qua điện thoại với chị Ngọc Lan sang 21h vì có việc đột xuất.,
+Viết email xác nhận buổi tư vấn tâm lý cá nhân qua video call với bạn Hồng Nhung vào 20h ngày 30/08.,
+Tạo email thông báo anh Vinh đã được xác nhận lịch tư vấn pháp lý đất đai tại 15h ngày 29/08 ở số 10 Nguyễn Hữu Cảnh.,
+Soạn email gửi chị Hòa xác nhận lại buổi tư vấn chiến lược truyền thông cho sự kiện vào 11h ngày mai tại khách sạn Sofitel.,
+Viết email nhắc anh Phước về cuộc hẹn tư vấn bảo hiểm nhân thọ ngày 02/09 lúc 9h tại văn phòng Prudential, TP. Biên Hòa.,
+Tạo email lịch sự xác nhận buổi tư vấn học bổng Nhật Bản với anh Long lúc 17h ngày 28/08 tại Văn phòng Sakura, Đà Nẵng.,
+Soạn email gửi chị An xác nhận buổi họp trực tuyến tư vấn tài chính cho doanh nghiệp vào 13h30 ngày 27/08 qua Zoom.,
+Viết email xác nhận lịch làm việc tư vấn marketing online tại địa chỉ 12A Lê Đại Hành, TP. Cần Thơ lúc 10h sáng thứ Sáu.,
+Tạo email cảm ơn và xác nhận lịch hẹn tư vấn tâm lý cặp đôi với bác sĩ Thủy lúc 18h ngày mai tại 98 Nguyễn Trãi.,
+Soạn email xác nhận buổi gặp mặt tư vấn với đại diện học viện đào tạo IELTS lúc 9h thứ Bảy tuần này tại 123 Nguyễn Văn Linh, Hải Phòng.,
+Viết email xác nhận buổi tư vấn kế hoạch tài chính cho doanh nghiệp nhỏ tại địa chỉ 45 Bạch Đằng, Đà Nẵng lúc 14h ngày 01/09.,
+Tạo email lịch sự xác nhận buổi tư vấn startup với mentor Lê Trọng Nhân vào lúc 10h ngày 29/08 tại Co-working Space Toong.,
+Soạn email xác nhận lại lịch hẹn với chị Kim Ngân tư vấn về giấy phép kinh doanh vào lúc 15h30 tại 33 Phan Bội Châu, Hà Nội.,
+Viết email xác nhận lịch gặp tư vấn viên hỗ trợ tuyển dụng tại công ty ABC vào sáng thứ Ba, địa chỉ 100 Phạm Văn Đồng, TP.HCM.,
+Tạo email lịch sự xác nhận buổi tư vấn bảo hiểm nhân thọ online lúc 19h ngày 27/08, gửi link Google Meet kèm theo.,
+Soạn email cảm ơn và xác nhận lịch hẹn tư vấn định cư Canada với chị Quỳnh Anh lúc 13h ngày 02/09 tại 20 Bùi Viện, Quận 1.,
+Viết email nhắc nhở khách hàng về buổi tư vấn visa du học Mỹ qua Zoom lúc 21h ngày 01/09.,
+Tạo email gửi bạn Thảo xác nhận buổi tư vấn đầu tư chứng khoán tại văn phòng số 9 Trần Phú, Nha Trang vào lúc 10h sáng mai.,
+Soạn email xác nhận cuộc gọi tư vấn hướng nghiệp với bạn sinh viên Trần Hoàng Nam lúc 18h00 tối nay qua Zalo.,
+Viết email lịch sự xác nhận lịch làm việc tư vấn nội thất nhà ở vào 9h sáng ngày 03/09 tại số 12 Pasteur, TP.HCM.
+
+    Viết email thông báo họp cư dân toàn chung cư GoldSeason, 47 Nguyễn Tuân, vào lúc 19h ngày 28/7/2025, có nêu rõ nội dung họp về phí bảo trì và an ninh tòa nhà.
+    Tạo tin nhắn gửi cư dân chung cư The Manor, 91 Nguyễn Hữu Cảnh, TP.HCM, để thông báo cắt điện bảo trì từ 9h đến 17h ngày 2/8/2025.
+    Viết email lịch sự thông báo thang máy tòa B chung cư Rivera Park Hà Nội sẽ được bảo trì vào ngày 3/8/2025 từ 7h đến 12h, yêu cầu cư dân dùng thang bộ tạm thời.
+    Tạo thông báo dán bảng về lịch phun thuốc muỗi định kỳ tại tầng 1 và 2 Block C chung cư An Gia Skyline, ngày 30/7/2025 lúc 20h.
+    Viết thông báo về việc tổ chức bầu Ban Quản Trị mới cho cư dân Sunrise City, quận 7, TP.HCM vào ngày 10/8/2025, địa điểm tại hội trường tầng 5 tòa nhà North 2.
+    Soạn email thông báo tạm ngừng cung cấp nước tại chung cư Green Pearl, 378 Minh Khai, Hà Nội từ 8h sáng đến 16h chiều ngày 5/8/2025 để sửa chữa hệ thống cấp nước.
+    Tạo thông báo gửi nhóm cư dân về việc đóng tiền điện kỳ tháng 7/2025 hạn cuối ngày 6/8/2025 tại văn phòng quản lý tầng trệt.
+    Viết email gửi các hộ cư dân về việc mời tham gia buổi lễ kỷ niệm 5 năm thành lập chung cư Imperia Garden vào 17h ngày 15/8/2025 tại sân chung.
+    Soạn email lịch sự thông báo lịch kiểm tra PCCC định kỳ tại tòa A1-A2 chung cư Vinhomes Ocean Park, ngày 9/8/2025 từ 14h đến 16h.
+    Viết thông báo cho cư dân về việc đóng phí bảo trì hệ thống thang máy tầng cao tại Royal City, hạn chót là ngày 20/8/2025.
+    Tạo tin nhắn gửi cư dân về việc sẽ kiểm tra đồng hồ điện từng căn hộ vào sáng 4/8/2025 từ 8h đến 11h tại chung cư Mỹ Đình Pearl.
+    Viết thông báo về việc chuyển đồ vào căn hộ B2107 chung cư Feliz En Vista, yêu cầu đặt lịch với ban quản lý trước ngày 1/8/2025.
+    Tạo nội dung thông báo về lịch bảo trì máy bơm nước Block D chung cư Xi Riverview Palace, quận 2, TP.HCM vào ngày 7/8/2025.
+    Soạn email gửi toàn thể cư dân về việc cắt mạng Internet khu vực tầng hầm để bảo trì thiết bị từ 13h đến 15h ngày 3/8/2025.
+    Tạo thông báo mời họp tổ dân phố tại sảnh Block B chung cư The Link Ciputra, vào 19h ngày 8/8/2025.
+    Soạn thông báo gửi cư dân về việc mở văn phòng quản lý mới tại tầng G từ ngày 1/8/2025, cung cấp thông tin liên hệ và giờ làm việc.
+    Viết tin nhắn thông báo đóng tiền gửi xe máy kỳ tháng 8 tại chung cư Vinhomes Smart City, hạn chót 3/8/2025.
+    Tạo email nhắc nhở các hộ cư dân về việc xử lý rác đúng giờ quy định tại Block E chung cư Masteri Thảo Điền.
+    Soạn email lịch sự thông báo sửa chữa hệ thống camera an ninh khu vực tầng 4 tòa Park 3 chung cư Times City vào sáng 6/8/2025.
+    Tạo nội dung thông báo mời cư dân tham gia hội thao nội bộ vào ngày 12/8/2025 tại sân tennis tầng 3 khu thể thao chung cư One Verandah.
+    Soạn email thông báo lịch vệ sinh bể nước ngầm Block A chung cư Eco Green Sài Gòn ngày 2/8/2025.
+    Tạo thông báo dán bảng tại sảnh về việc lắp đặt hệ thống đèn LED hành lang từ ngày 4 đến 6/8/2025.
+    Viết thông báo gửi toàn bộ cư dân tòa nhà về việc tổ chức lớp tập huấn PCCC vào ngày 10/8/2025 tại phòng cộng đồng tầng 2.
+    Soạn email nhắc nhở cư dân về việc không nuôi chó mèo tại ban công gây ảnh hưởng đến các căn hộ khác.
+    Viết thông báo mời cư dân tham dự hội chợ ẩm thực cộng đồng vào ngày 18/8/2025 tại sân chung chung cư Cityland Park Hills.
+    Soạn nội dung thông báo mời cư dân góp ý về kế hoạch lắp đặt máy tập thể dục ngoài trời tại khuôn viên Block C.
+    Tạo email gửi cư dân về lịch thay đồng hồ nước theo đợt tại các căn hộ tầng 10-15 ngày 5/8/2025.
+    Viết thông báo gửi các hộ cư dân về việc cấm đậu xe sai quy định trước sảnh chính Block A chung cư Sky Center.
+    Soạn thông báo nhắc nhở cư dân không tụ tập gây ồn quá 22h tại khu vực sân chơi chung.
+    Tạo nội dung thông báo về lịch kiểm tra hệ thống thông gió tầng hầm B2 vào sáng 7/8/2025.
+    Soạn email thông báo các căn hộ cần kiểm tra công tơ điện định kỳ vào ngày 3/8/2025.
+    Tạo thông báo mời cư dân tham dự lễ Trung Thu do Ban quản lý tổ chức ngày 14/9/2025 tại sân chơi khu A.
+    Viết thông báo gửi cư dân về việc cắt tỉa cây xanh cảnh quan tại Block B từ ngày 6/8 đến 8/8/2025.
+    Soạn nội dung email thông báo về việc tăng phí quản lý từ tháng 9/2025 và lý do điều chỉnh.
+    Tạo thông báo về lịch thu tiền rác tại từng tầng căn hộ ngày 2/8/2025 từ 10h đến 16h.
+    Soạn email gửi cư dân thông báo về việc lắp đặt máy bán hàng tự động tại sảnh chờ Block C.
+    Viết thông báo mời cư dân đăng ký lịch sử dụng phòng sinh hoạt cộng đồng vào cuối tuần.
+    Tạo email gửi các căn hộ về việc bảo trì hệ thống PCCC tầng hầm ngày 1/8/2025.
+    Soạn nội dung thông báo về thay đổi đơn vị quản lý tòa nhà từ 15/8/2025.
+    Tạo tin nhắn gửi cư dân về việc kiểm tra khóa cửa chính từng căn hộ ngày 5/8/2025.
+    Soạn email thông báo về việc dọn vệ sinh trần thạch cao hành lang tầng 10 Block D.
+    Viết thông báo gửi cư dân về việc tổ chức ngày hội thiếu nhi 1/6/2025 tại khuôn viên chung.
+    Tạo nội dung thông báo nhắc nhở cư dân không ném rác qua cửa sổ căn hộ.
+    Soạn email thông báo về việc kiểm tra công tơ điện chung cư hàng tháng ngày 3/8.
+    Tạo thông báo về việc điều chỉnh thời gian mở cửa sân thể thao từ 5h sáng đến 22h tối.
+    Viết email gửi cư dân mời tham gia dọn dẹp khu vực hành lang tầng 3 ngày 8/8.
+    Soạn thông báo mời cư dân họp bàn về việc nâng cấp sân chơi trẻ em ngày 9/8/2025.
+    Tạo tin nhắn gửi cư dân về việc cắt mạng Internet tầng 7 vì bảo trì thiết bị vào 4/8.
+    Viết thông báo gửi cư dân tòa nhà D chung cư Vinata Tower về việc dọn vệ sinh máy lạnh khu vực chung ngày 2/8.,
+    Soạn email nhắc nhở cư dân đóng phí bảo trì trước ngày 6/8/2025 tại tầng trệt.
+ Viết email xác nhận lịch sửa điều hòa tại căn hộ 1205, chung cư Sunshine City vào 14h ngày 5/8/2025.
+
+Soạn tin nhắn đề nghị đổi lịch sửa máy nước nóng từ 9h sáng sang 15h chiều ngày 28/7 tại số 10 Nguyễn Hữu Cảnh, Q.Bình Thạnh.
+
+Gửi email thông báo đã đặt lịch kiểm tra đường ống nước cho nhà số 21 đường Nguyễn Văn Lộc vào thứ Tư tuần này lúc 10h sáng.
+
+Tạo nội dung email xác nhận thợ đến sửa cửa cuốn tại 82 Lê Văn Lương vào lúc 16h ngày mai.
+
+Viết thông báo lịch sửa máy lạnh tại văn phòng tầng 7, tòa nhà Becamex Tower, ngày 29/7 lúc 8h30.
+
+Soạn nội dung xác nhận sửa tủ lạnh tại căn hộ G4 Vinhomes Green Bay lúc 11h ngày 30/7.
+
+Viết tin nhắn hẹn kỹ thuật viên đến sửa đường dây điện nhà số 34 Nguyễn Đình Chiểu, Quận 3, vào 13h30 ngày 31/7.
+
+Tạo email xác nhận đội ngũ bảo trì đến kiểm tra hệ thống thoát nước tại công ty ABC, 43 Phan Văn Trị, lúc 9h ngày 1/8.
+
+Viết email xin dời lịch sửa cửa kính văn phòng 201, tòa nhà Golden Land từ thứ Ba sang thứ Năm tuần này.
+
+Tạo nội dung xác nhận sửa máy giặt tại chung cư An Gia Skyline, Block B3, căn 1207, lúc 10h sáng ngày 3/8.
+
+Gửi thông báo sửa hệ thống điện dự phòng cho biệt thự số 9 khu Phú Mỹ Hưng vào ngày 5/8 lúc 15h.
+
+Soạn tin xác nhận lịch sửa mạng Internet tại nhà số 5 đường Trần Hưng Đạo, Đà Nẵng, 14h ngày mai.
+
+Tạo nội dung xác nhận kỹ thuật viên đến bảo dưỡng hệ thống PCCC tại tòa nhà Lữ Gia Plaza, lúc 8h ngày 6/8.
+
+Viết thông báo thay thế đèn LED tại hành lang tầng 3, khu A, Đại học Bách Khoa Hà Nội, vào lúc 17h ngày 1/8.
+
+Soạn email hẹn sửa bếp từ tại nhà số 100 Pasteur, Quận 1, lúc 10h ngày 4/8.
+
+Gửi tin xác nhận kiểm tra hệ thống máy bơm nước tại biệt thự 12B khu Thảo Điền, lúc 13h30 thứ Sáu.
+
+Viết nội dung thông báo sửa lại tay nắm cửa chính nhà 145 Đường 3/2, Cần Thơ vào 9h sáng mai.
+
+Soạn tin nhắn xin lùi lịch sửa máy hút mùi sang 17h ngày 6/8 tại căn hộ CT3 Trung Văn.
+
+Viết thông báo xác nhận kỹ thuật viên đến kiểm tra và bảo trì điều hòa tổng cho tầng 9 khách sạn Queen's Hotel, Hải Phòng.
+
+Tạo prompt xác nhận sửa máy lọc nước tại 23 Nguyễn Thị Minh Khai, Đà Lạt, 14h ngày 2/8.
+
+Viết email đề nghị kiểm tra lại ổ cắm điện bị chập tại căn hộ M3 Vinhomes Metropolis, lúc 11h ngày 31/7.
+
+Soạn tin nhắn thông báo thợ sửa đến thay khóa cửa chính tại căn hộ D609 chung cư Thống Nhất Complex.
+
+Gửi email xác nhận bảo dưỡng thang máy tòa nhà G9 đường Lê Trọng Tấn vào sáng thứ Hai tới.
+
+Viết nội dung hẹn sửa mái tôn nhà kho số 18, khu công nghiệp Hiệp Phước, ngày 1/8 lúc 15h30.
+
+Tạo prompt xác nhận lịch vệ sinh hệ thống thoát khí tầng hầm tòa nhà 165 Cầu Giấy vào 7h sáng thứ Bảy.
+
+Gửi tin nhắn xác nhận sửa bàn làm việc bị gãy tại văn phòng Lầu 2, 123 Lý Tự Trọng, Quận 1.
+
+Soạn email xin đổi lịch kiểm tra máy nước nóng từ ngày 3/8 sang 5/8 tại nhà số 9 đường Nguyễn Chí Thanh.
+
+Tạo thông báo xác nhận kiểm tra hệ thống camera tại biệt thự số 11 khu Riviera Cove, Quận 9.
+
+Viết tin nhắn xác nhận kỹ thuật viên sửa vòi sen tại nhà số 41 Lê Văn Sỹ, Phú Nhuận vào 8h sáng mai.
+
+Gửi email xác nhận đến sửa sàn gỗ bị bong tại nhà số 6 Nguyễn Khuyến, Hà Đông.
+
+Viết nội dung xác nhận đội bảo trì đến thay ống nước tại văn phòng 1602, Landmark 81 lúc 14h ngày 6/8.
+
+Tạo prompt gửi email xác nhận lịch bảo trì hệ thống điều hòa văn phòng công ty ABC, lầu 5, lúc 10h ngày 2/8.
+
+Soạn email đề nghị đổi lịch sửa bàn làm việc tại phòng 502, tòa nhà Zen Tower.
+
+Viết tin nhắn thông báo đến sửa lan can ban công tại căn hộ A208, Topaz Elite.
+
+Gửi nội dung xác nhận lịch sửa ổ khóa phòng ngủ tại nhà số 4/5 Đinh Tiên Hoàng, Huế.
+
+Tạo nội dung email xác nhận kỹ thuật viên đến thay bóng đèn thang bộ chung cư Ruby Garden, ngày 3/8 lúc 17h.
+
+Soạn prompt xác nhận lịch kiểm tra bồn cầu tại phòng 204, khách sạn Hà My 3, Đà Nẵng.
+
+Viết thông báo đến bảo trì quạt thông gió tại nhà ăn khu công nghiệp Amata, Biên Hòa.
+
+Soạn email xác nhận thay dây điện máy bơm tại nhà số 21 Trần Đại Nghĩa, TP.HCM, vào 9h thứ Năm.
+
+Gửi tin nhắn xác nhận kiểm tra ống gas bếp tại căn hộ D6 chung cư HAGL 3, Quận 7.
+
+Tạo nội dung xác nhận sửa tường bị nứt tại văn phòng tầng 10, tòa nhà Riverbank, Thủ Thiêm.
+
+Soạn email đề nghị kiểm tra lại máy in tại phòng kỹ thuật, Đại học Quốc Gia Hà Nội.
+
+Viết prompt gửi xác nhận kiểm tra và sửa ống thoát nước mái nhà số 25 đường Trần Hưng Đạo, Hội An.
+
+Tạo nội dung tin nhắn xác nhận sửa cửa sổ kính bị kẹt tại 67 Pasteur, Quận 3, TP.HCM.
+
+Gửi email xác nhận sửa tay vịn cầu thang gỗ tại biệt thự số 12 khu Ngọc Trai, Vinhomes Ocean Park.
+
+Soạn prompt đề nghị kỹ thuật viên kiểm tra máy bơm tầng hầm vào 15h ngày 3/8 tại tòa nhà PV Oil Tower.
+
+Viết tin nhắn xác nhận lịch sửa máy nước nóng năng lượng mặt trời tại nhà 99 Lê Duẩn, Quảng Ngãi.
+
+Gửi email thông báo đến sửa chốt cửa sổ tại chung cư Vạn Đô, Quận 4, vào 8h30 ngày 1/8.
+
+Soạn tin xác nhận đến sửa máy giặt cửa ngang tại 89 Phan Chu Trinh, Hà Nội.
+
+Viết nội dung xác nhận kỹ thuật đến xử lý trần nhà bị thấm nước tại căn hộ Sky9, Quận 9, lúc 14h thứ Tư.
+
+
+
